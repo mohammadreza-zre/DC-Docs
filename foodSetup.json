@@ -1,17 +1,19 @@
-[
- {
-   "name": "kabab",
-   "region": "persian",
-   "ingrediants": "[\"meat\", \"onion\"]"
- },
- {
-   "name": "dolme",
-   "region": "persian",
-   "ingrediants": "[\"leaf\"]"
- },
- {
-   "name": "pizza",
-   "region": "italian",
-   "ingrediants": "[\"bread\",  \"tomato\", \"mushroom\"]"
- }
-]
+{
+  "FoodList": [
+    {
+        "name": "kabab",
+        "type": "persian",
+        "ingrediants": [1,2,3]       
+    },
+    {
+        "name": "gheyme",
+        "type": "persian",
+        "ingrediants": [2,3]       
+    },
+    {
+        "name": "pizze",
+        "type": "italian",
+        "ingrediants": [4,5,6,7,8]       
+    }
+  ]
+}

@@ -1,5 +1,4 @@
 [
-items: [
  {
    "name": "kabab",
    "region": "persian",
@@ -15,5 +14,4 @@ items: [
    "region": "italian",
    "ingrediants": "[\"bread\",  \"tomato\", \"mushroom\"]"
  }
-]
 ]

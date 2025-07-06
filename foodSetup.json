@@ -1,0 +1,19 @@
+[
+items: [
+ {
+   "name": "kabab",
+   "region": "persian",
+   "ingrediants": "[\"meat\", \"onion\"]"
+ },
+ {
+   "name": "dolme",
+   "region": "persian",
+   "ingrediants": "[\"leaf\"]"
+ },
+ {
+   "name": "pizza",
+   "region": "italian",
+   "ingrediants": "[\"bread\",  \"tomato\", \"mushroom\"]"
+ }
+]
+]

@@ -1,19 +1,3367 @@
-{
-  "FoodList": [
+[
     {
-        "name": "kabab",
-        "type": "persian",
-        "ingrediants": [1,2,3]       
+        "id": "3f55424d-d56e-4fa0-a37f-0fbff5d5cd56",
+        "title": "Persian Orange and Bean Stew",
+        "description": "A flavorful Persian stew combining the tangy notes of orange and lime with kidney beans and jalapeño, served warm with flatbread.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 52
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Lunch", "Dinner"],
+        "dietTags": ["Vegan", "Vegetarian"],
+        "allergens": ["Gluten"],
+        "ingredients": [
+            {
+                "name": "lime juice",
+                "quantity": "1",
+                "unit": null,
+                "note": null
+            },
+            {
+                "name": "tomato paste",
+                "quantity": "1",
+                "unit": "can",
+                "note": null
+            },
+            {
+                "name": "kidney beans",
+                "quantity": "1",
+                "unit": "1.5 oz can",
+                "note": "rinsed and drained"
+            },
+            {
+                "name": "jalapeño",
+                "quantity": "1",
+                "unit": null,
+                "note": "chopped"
+            },
+            {
+                "name": "flatbread",
+                "quantity": "1",
+                "unit": null,
+                "note": null
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "spices (e.g., turmeric, cumin)",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Place a large skillet over medium heat. Heat the oil in it. Add the onion and cook it for 6 minutes.",
+            "Stir in the spices and cook them for another 6 minutes. Add the orange and lime juice. Cook them until they start boiling. Cook them for 12 minutes over low heat.",
+            "Stir in the peppers with beans. Cook them for 22 minutes. Cook them for an additional 5 minutes.",
+            "Serve your stew warm with flatbread.",
+            "Enjoy."
+        ],
+        "nutritions": {
+            "calories": 493,
+            "fat": 6.0,
+            "cholesterol": 0.0,
+            "sodium": 2222.4,
+            "carbohydrates": 85.6,
+            "protein": 26.6
+        }
     },
     {
-        "name": "gheyme",
-        "type": "persian",
-        "ingrediants": [2,3]       
+        "id": "a2b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d",
+        "title": "Persian Potato Rice Stew",
+        "description": "A hearty Persian stew featuring potatoes and rice, infused with aromatic spices for a comforting meal.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 60
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Lunch", "Dinner"],
+        "dietTags": ["Vegan", "Vegetarian"],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "potatoes",
+                "quantity": "2",
+                "unit": "medium",
+                "note": "diced"
+            },
+            {
+                "name": "basmati rice",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "rinsed"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "turmeric",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "vegetable broth",
+                "quantity": "4",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a pot over medium heat. Add onion and sauté until golden, about 5 minutes.",
+            "Stir in turmeric and cook for 1 minute. Add potatoes and rice, stirring to coat.",
+            "Pour in vegetable broth, bring to a boil, then simmer for 45 minutes until potatoes and rice are tender.",
+            "Season with salt to taste. Serve warm."
+        ],
+        "nutritions": {
+            "calories": 350,
+            "fat": 8.0,
+            "cholesterol": 0.0,
+            "sodium": 800.0,
+            "carbohydrates": 60.0,
+            "protein": 8.0
+        }
     },
     {
-        "name": "pizze",
-        "type": "italian",
-        "ingrediants": [4,5,6,7,8]       
+        "id": "b3c4d5e6-f7a8-4b9c-0d1e-2f3a4b5c6d7e",
+        "title": "Persian Nutty Rice",
+        "description": "A fragrant rice dish with nuts and Persian spices, perfect as a side or main course.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 40
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Side", "Dinner"],
+        "dietTags": ["Vegan", "Vegetarian"],
+        "allergens": ["Nuts"],
+        "ingredients": [
+            {
+                "name": "basmati rice",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "rinsed"
+            },
+            {
+                "name": "almonds",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "slivered"
+            },
+            {
+                "name": "pistachios",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "saffron",
+                "quantity": "0.25",
+                "unit": "tsp",
+                "note": "dissolved in 2 tbsp hot water"
+            },
+            {
+                "name": "butter",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Cook basmati rice in boiling water until tender, about 15 minutes. Drain.",
+            "In a pan, melt butter and toast almonds and pistachios until golden, about 5 minutes.",
+            "Stir in saffron water and cooked rice. Mix gently and cook for 10 minutes.",
+            "Season with salt and serve warm."
+        ],
+        "nutritions": {
+            "calories": 400,
+            "fat": 15.0,
+            "cholesterol": 20.0,
+            "sodium": 300.0,
+            "carbohydrates": 55.0,
+            "protein": 10.0
+        }
+    },
+    {
+        "id": "c4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f",
+        "title": "Persian Pistachios and Bean Pilaf",
+        "description": "A vibrant pilaf combining pistachios and beans with aromatic Persian spices.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 50
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": ["Vegan", "Vegetarian"],
+        "allergens": ["Nuts"],
+        "ingredients": [
+            {
+                "name": "basmati rice",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "rinsed"
+            },
+            {
+                "name": "pistachios",
+                "quantity": "0.33",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "kidney beans",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "cooked"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "cumin",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a pan, sauté onion until soft, about 5 minutes.",
+            "Add cumin and pistachios, cook for 2 minutes. Stir in rice and beans.",
+            "Add water, bring to a boil, then simmer for 30 minutes until rice is cooked.",
+            "Season with salt and serve warm."
+        ],
+        "nutritions": {
+            "calories": 380,
+            "fat": 12.0,
+            "cholesterol": 0.0,
+            "sodium": 400.0,
+            "carbohydrates": 58.0,
+            "protein": 12.0
+        }
+    },
+    {
+        "id": "d5e6f7a8-b9c0-4d1e-2f3a-4b5c6d7e8f9a",
+        "title": "Persian Noodles Bean Soup",
+        "description": "A comforting Persian soup with noodles and beans, flavored with traditional herbs.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 45
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Lunch", "Dinner"],
+        "dietTags": ["Vegan", "Vegetarian"],
+        "allergens": ["Gluten"],
+        "ingredients": [
+            {
+                "name": "noodles",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "broken into small pieces"
+            },
+            {
+                "name": "kidney beans",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "cooked"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "parsley",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "vegetable broth",
+                "quantity": "4",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a pot, sauté onion until golden, about 5 minutes.",
+            "Add beans and parsley, cook for 2 minutes.",
+            "Pour in vegetable broth, bring to a boil, add noodles, and simmer for 30 minutes.",
+            "Season with salt and serve hot."
+        ],
+        "nutritions": {
+            "calories": 320,
+            "fat": 7.0,
+            "cholesterol": 0.0,
+            "sodium": 700.0,
+            "carbohydrates": 55.0,
+            "protein": 10.0
+        }
+    },
+    {
+        "id": "e6f7a8b9-c0d1-4e2f-3a4b-5c6d7e8f9a0b",
+        "title": "Persian Lemon Chicken Kabobs",
+        "description": "Juicy chicken kabobs marinated with lemon and Persian spices, perfect for grilling.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 30
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "chicken breast",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "cubed"
+            },
+            {
+                "name": "lemon juice",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "saffron",
+                "quantity": "0.25",
+                "unit": "tsp",
+                "note": "dissolved in 1 tbsp hot water"
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Mix lemon juice, olive oil, saffron, and salt to make a marinade.",
+            "Marinate chicken cubes for at least 1 hour.",
+            "Thread chicken onto skewers and grill over medium heat for 10-12 minutes, turning occasionally.",
+            "Serve hot with rice or flatbread."
+        ],
+        "nutritions": {
+            "calories": 300,
+            "fat": 12.0,
+            "cholesterol": 80.0,
+            "sodium": 500.0,
+            "carbohydrates": 2.0,
+            "protein": 25.0
+        }
+    },
+    {
+        "id": "f7a8b9c0-d1e2-4f3a-5b6c-6d7e8f9a0b1c",
+        "title": "Persian Chicken Wings Soup",
+        "description": "A savory soup featuring chicken wings and Persian spices for a warming dish.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 60
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Lunch", "Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "chicken wings",
+                "quantity": "1",
+                "unit": "lb",
+                "note": null
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "turmeric",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "chicken broth",
+                "quantity": "4",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a pot, sauté onion until soft, about 5 minutes.",
+            "Add turmeric and chicken wings, cook for 5 minutes.",
+            "Pour in chicken broth, bring to a boil, then simmer for 45 minutes.",
+            "Season with salt and serve hot."
+        ],
+        "nutritions": {
+            "calories": 350,
+            "fat": 20.0,
+            "cholesterol": 90.0,
+            "sodium": 800.0,
+            "carbohydrates": 5.0,
+            "protein": 30.0
+        }
+    },
+    {
+        "id": "a8b9c0d1-e2f3-4a5b-6c7d-7e8f9a0b1c2d",
+        "title": "Potato and Pepper Meatballs",
+        "description": "Flavorful meatballs with potatoes and peppers, infused with Persian spices.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 45
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "ground beef",
+                "quantity": "1",
+                "unit": "lb",
+                "note": null
+            },
+            {
+                "name": "potatoes",
+                "quantity": "1",
+                "unit": "medium",
+                "note": "grated"
+            },
+            {
+                "name": "bell pepper",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "cumin",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Mix ground beef, grated potato, bell pepper, onion, cumin, and salt in a bowl.",
+            "Form into meatballs and set aside.",
+            "Heat olive oil in a pan, cook meatballs until browned, about 10 minutes.",
+            "Simmer in a tomato-based sauce for 20 minutes. Serve warm."
+        ],
+        "nutritions": {
+            "calories": 400,
+            "fat": 25.0,
+            "cholesterol": 80.0,
+            "sodium": 600.0,
+            "carbohydrates": 15.0,
+            "protein": 25.0
+        }
+    },
+    {
+        "id": "b9c0d1e2-f3a4-4b5c-6d7e-8f9a0b1c2d3e",
+        "title": "Persian Chicken Berries Pilaf",
+        "description": "A sweet and savory pilaf with chicken and berries, a classic Persian combination.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 50
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "chicken thighs",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "boneless, cubed"
+            },
+            {
+                "name": "basmati rice",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "rinsed"
+            },
+            {
+                "name": "dried barberries",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "butter",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "saffron",
+                "quantity": "0.25",
+                "unit": "tsp",
+                "note": "dissolved in 2 tbsp hot water"
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat butter in a pan, sauté onion until golden, about 5 minutes.",
+            "Add chicken and cook until browned, about 8 minutes.",
+            "Stir in rice, barberries, and saffron water. Add water, bring to a boil, then simmer for 30 minutes.",
+            "Season with salt and serve warm."
+        ],
+        "nutritions": {
+            "calories": 450,
+            "fat": 18.0,
+            "cholesterol": 90.0,
+            "sodium": 500.0,
+            "carbohydrates": 50.0,
+            "protein": 25.0
+        }
+    },
+    {
+        "id": "c0d1e2f3-a4b5-4c6d-7e8f-9a0b1c2d3e4f",
+        "title": "Persian Lime Lamb Stew",
+        "description": "A tangy lamb stew with dried limes, a staple in Persian cuisine, for a rich and flavorful dish.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 90
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "lamb shoulder",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "cubed"
+            },
+            {
+                "name": "dried limes",
+                "quantity": "2",
+                "unit": null,
+                "note": "pierced"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "turmeric",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "tomato paste",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "water",
+                "quantity": "3",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a pot, sauté onion until golden, about 5 minutes.",
+            "Add turmeric and lamb, cook until browned, about 8 minutes.",
+            "Stir in tomato paste and dried limes, then add water. Bring to a boil, then simmer for 75 minutes.",
+            "Season with salt and serve warm with rice."
+        ],
+        "nutritions": {
+            "calories": 500,
+            "fat": 30.0,
+            "cholesterol": 100.0,
+            "sodium": 600.0,
+            "carbohydrates": 10.0,
+            "protein": 35.0
+        }
+    },
+    {
+        "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5e",
+        "title": "Persian Zucchini Frittata",
+        "description": "A light and flavorful Persian frittata featuring zucchini and fresh herbs, perfect for brunch or a light meal.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 30
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Lunch", "Dinner"],
+        "dietTags": ["Vegetarian"],
+        "allergens": ["Dairy"],
+        "ingredients": [
+            {
+                "name": "zucchini",
+                "quantity": "2",
+                "unit": "medium",
+                "note": "grated"
+            },
+            {
+                "name": "eggs",
+                "quantity": "4",
+                "unit": null,
+                "note": null
+            },
+            {
+                "name": "fresh dill",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            },
+            {
+                "name": "black pepper",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a skillet, sauté onion until soft, about 5 minutes.",
+            "Add grated zucchini and cook until tender, about 5 minutes.",
+            "Whisk eggs with dill, salt, and pepper. Pour over zucchini mixture.",
+            "Cook on low heat until set, about 15 minutes. Optionally, finish under a broiler for 2–3 minutes.",
+            "Serve warm or at room temperature."
+        ],
+        "nutritions": {
+            "calories": 200,
+            "fat": 15.0,
+            "cholesterol": 185.0,
+            "sodium": 300.0,
+            "carbohydrates": 5.0,
+            "protein": 10.0
+        }
+    },
+    {
+        "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e6f",
+        "title": "Persian Spinach Frittata",
+        "description": "A nutritious Persian frittata packed with spinach and herbs, ideal for a healthy meal.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 30
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Lunch", "Dinner"],
+        "dietTags": ["Vegetarian"],
+        "allergens": ["Dairy"],
+        "ingredients": [
+            {
+                "name": "spinach",
+                "quantity": "2",
+                "unit": "cups",
+                "note": "chopped"
+            },
+            {
+                "name": "eggs",
+                "quantity": "4",
+                "unit": null,
+                "note": null
+            },
+            {
+                "name": "fresh parsley",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            },
+            {
+                "name": "black pepper",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a skillet, sauté onion until soft, about 5 minutes.",
+            "Add chopped spinach and cook until wilted, about 3 minutes.",
+            "Whisk eggs with parsley, salt, and pepper. Pour over spinach mixture.",
+            "Cook on low heat until set, about 15 minutes. Optionally, finish under a broiler for 2–3 minutes.",
+            "Serve warm or at room temperature."
+        ],
+        "nutritions": {
+            "calories": 210,
+            "fat": 15.0,
+            "cholesterol": 185.0,
+            "sodium": 320.0,
+            "carbohydrates": 6.0,
+            "protein": 11.0
+        }
+    },
+    {
+        "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f7a",
+        "title": "Glazed Lamb with Fruit Salad",
+        "description": "Tender lamb glazed with Persian spices, served alongside a refreshing fruit salad.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 60
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "lamb chops",
+                "quantity": "1",
+                "unit": "lb",
+                "note": null
+            },
+            {
+                "name": "pomegranate molasses",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "saffron",
+                "quantity": "0.25",
+                "unit": "tsp",
+                "note": "dissolved in 1 tbsp hot water"
+            },
+            {
+                "name": "mixed fruits (e.g., pomegranate seeds, grapes)",
+                "quantity": "2",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "lemon juice",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Mix pomegranate molasses, olive oil, saffron, and salt to make a glaze.",
+            "Coat lamb chops with glaze and marinate for 30 minutes.",
+            "Grill or pan-sear lamb chops over medium heat for 8–10 minutes per side.",
+            "Toss mixed fruits with lemon juice to make a salad.",
+            "Serve lamb chops with fruit salad on the side."
+        ],
+        "nutritions": {
+            "calories": 550,
+            "fat": 35.0,
+            "cholesterol": 110.0,
+            "sodium": 500.0,
+            "carbohydrates": 20.0,
+            "protein": 30.0
+        }
+    },
+    {
+        "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a8b",
+        "title": "Persian Creamy Dill Chicken Salad",
+        "description": "A creamy chicken salad with dill and Persian spices, perfect for a light meal or appetizer.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 40
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Lunch", "Dinner"],
+        "dietTags": [],
+        "allergens": ["Dairy"],
+        "ingredients": [
+            {
+                "name": "chicken breast",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "cooked and shredded"
+            },
+            {
+                "name": "yogurt",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": "plain"
+            },
+            {
+                "name": "fresh dill",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "cucumber",
+                "quantity": "1",
+                "unit": null,
+                "note": "diced"
+            },
+            {
+                "name": "lemon juice",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Cook chicken breast by poaching or grilling, then shred.",
+            "Mix yogurt, dill, lemon juice, and salt to make a dressing.",
+            "Combine shredded chicken and cucumber with the dressing.",
+            "Chill for 20 minutes before serving."
+        ],
+        "nutritions": {
+            "calories": 350,
+            "fat": 10.0,
+            "cholesterol": 80.0,
+            "sodium": 400.0,
+            "carbohydrates": 10.0,
+            "protein": 30.0
+        }
+    },
+    {
+        "id": "5f6a7b8c-9手法e0f-1a2b-3c4d5e6f7a9c",
+        "title": "Persian Saffron Kabobs",
+        "description": "Succulent meat kabobs marinated with saffron and spices, a Persian classic.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 30
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "beef or lamb",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "cubed"
+            },
+            {
+                "name": "saffron",
+                "quantity": "0.25",
+                "unit": "tsp",
+                "note": "dissolved in 2 tbsp hot water"
+            },
+            {
+                "name": "lemon juice",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "grated"
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Blend saffron water, lemon juice, olive oil, grated onion, and salt to make a marinade.",
+            "Marinate meat cubes for at least 1 hour.",
+            "Thread meat onto skewers and grill over medium heat for 10–12 minutes, turning occasionally.",
+            "Serve hot with rice or flatbread."
+        ],
+        "nutritions": {
+            "calories": 320,
+            "fat": 20.0,
+            "cholesterol": 80.0,
+            "sodium": 500.0,
+            "carbohydrates": 2.0,
+            "protein": 25.0
+        }
+    },
+    {
+        "id": "6a7b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d",
+        "title": "Persian Tongues Stew",
+        "description": "A rich and unique stew featuring lamb tongue and Persian spices, slow-cooked for tenderness.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 120
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "lamb tongues",
+                "quantity": "1",
+                "unit": "lb",
+                "note": null
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "tomato paste",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "dried limes",
+                "quantity": "2",
+                "unit": null,
+                "note": "pierced"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "turmeric",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "water",
+                "quantity": "4",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Boil lamb tongues in water for 10 minutes, then peel and slice.",
+            "Heat olive oil in a pot, sauté onion until golden, about 5 minutes.",
+            "Add turmeric, tomato paste, and dried limes, cook for 2 minutes.",
+            "Add sliced tongues and water, simmer for 100 minutes until tender.",
+            "Season with salt and serve with rice."
+        ],
+        "nutritions": {
+            "calories": 450,
+            "fat": 25.0,
+            "cholesterol": 120.0,
+            "sodium": 600.0,
+            "carbohydrates": 10.0,
+            "protein": 30.0
+        }
+    },
+    {
+        "id": "7b8c9d0e-1f2a-3b4c-5d6e-7f8a9b0c1d2e",
+        "title": "Persian Lentils and Meatballs Soup",
+        "description": "A hearty soup with lentils and meatballs, flavored with Persian spices.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 60
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Lunch", "Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "ground beef",
+                "quantity": "0.5",
+                "unit": "lb",
+                "note": null
+            },
+            {
+                "name": "lentils",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "rinsed"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "turmeric",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "chicken broth",
+                "quantity": "4",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Form ground beef into small meatballs.",
+            "Heat olive oil in a pot, sauté onion until soft, about 5 minutes.",
+            "Add turmeric and lentils, stir for 1 minute.",
+            "Add broth and meatballs, bring to a boil, then simmer for 45 minutes.",
+            "Season with salt and serve hot."
+        ],
+        "nutritions": {
+            "calories": 400,
+            "fat": 15.0,
+            "cholesterol": 50.0,
+            "sodium": 700.0,
+            "carbohydrates": 35.0,
+            "protein": 25.0
+        }
+    },
+    {
+        "id": "8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f",
+        "title": "Persian Eggplant Frittata",
+        "description": "A savory frittata with roasted eggplant and Persian herbs, perfect for any meal.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 40
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Lunch", "Dinner"],
+        "dietTags": ["Vegetarian"],
+        "allergens": ["Dairy"],
+        "ingredients": [
+            {
+                "name": "eggplant",
+                "quantity": "1",
+                "unit": "medium",
+                "note": "roasted and mashed"
+            },
+            {
+                "name": "eggs",
+                "quantity": "4",
+                "unit": null,
+                "note": null
+            },
+            {
+                "name": "fresh parsley",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            },
+            {
+                "name": "black pepper",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Roast eggplant until soft, about 20 minutes at 400°F, then mash.",
+            "Heat olive oil in a skillet, sauté onion until soft, about 5 minutes.",
+            "Add mashed eggplant and cook for 3 minutes.",
+            "Whisk eggs with parsley, salt, and pepper. Pour over eggplant mixture.",
+            "Cook on low heat until set, about 10 minutes. Optionally, finish under a broiler for 2–3 minutes."
+        ],
+        "nutritions": {
+            "calories": 220,
+            "fat": 15.0,
+            "cholesterol": 185.0,
+            "sodium": 300.0,
+            "carbohydrates": 8.0,
+            "protein": 10.0
+        }
+    },
+    {
+        "id": "9d0e1f2a-3b4c-5d6e-7f8a-9b0c1d2e3f4a",
+        "title": "Persian Nutty Duck",
+        "description": "A rich duck dish with a nutty Persian sauce, showcasing bold flavors.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 90
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": ["Nuts"],
+        "ingredients": [
+            {
+                "name": "duck breast",
+                "quantity": "1",
+                "unit": "lb",
+                "note": null
+            },
+            {
+                "name": "walnuts",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": "ground"
+            },
+            {
+                "name": "pomegranate molasses",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "water",
+                "quantity": "1",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Score duck skin and sear in a hot pan until crispy, about 5 minutes per side. Set aside.",
+            "In the same pan, heat olive oil and sauté onion until soft, about 5 minutes.",
+            "Add ground walnuts and pomegranate molasses, cook for 2 minutes.",
+            "Add water and simmer for 10 minutes. Slice duck and add to sauce, cook for 5 minutes.",
+            "Season with salt and serve with rice."
+        ],
+        "nutritions": {
+            "calories": 600,
+            "fat": 45.0,
+            "cholesterol": 100.0,
+            "sodium": 500.0,
+            "carbohydrates": 15.0,
+            "protein": 30.0
+        }
+    },
+    {
+        "id": "0e1f2a3b-4c5d-6e7f-8a9b-0c1d2e3f4a5b",
+        "title": "Persian Nutty Fruit Salad",
+        "description": "A refreshing fruit salad with nuts and a hint of Persian rosewater.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 15
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Side", "Dessert"],
+        "dietTags": ["Vegan", "Vegetarian"],
+        "allergens": ["Nuts"],
+        "ingredients": [
+            {
+                "name": "pomegranate seeds",
+                "quantity": "1",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "grapes",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "halved"
+            },
+            {
+                "name": "pistachios",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "rosewater",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "lemon juice",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "honey",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": null
+            }
+        ],
+        "steps": [
+            "Combine pomegranate seeds, grapes, and pistachios in a bowl.",
+            "Mix rosewater, lemon juice, and honey to make a dressing.",
+            "Toss fruits and nuts with dressing.",
+            "Chill for 10 minutes before serving."
+        ],
+        "nutritions": {
+            "calories": 200,
+            "fat": 8.0,
+            "cholesterol": 0.0,
+            "sodium": 10.0,
+            "carbohydrates": 30.0,
+            "protein": 4.0
+        }
+    },
+    {
+        "id": "1f2a3b4c-5d6e-7f8a-9b0c-1d2e3f4a5b6c",
+        "title": "Persian Nutty Yogurt Soup",
+        "description": "A creamy yogurt-based soup with nuts and herbs, served chilled for a refreshing dish.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 20
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Lunch", "Side"],
+        "dietTags": ["Vegetarian"],
+        "allergens": ["Dairy", "Nuts"],
+        "ingredients": [
+            {
+                "name": "plain yogurt",
+                "quantity": "2",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "walnuts",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "cucumber",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely diced"
+            },
+            {
+                "name": "fresh mint",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": "chopped"
+            },
+            {
+                "name": "raisins",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            },
+            {
+                "name": "water",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": "to adjust consistency"
+            }
+        ],
+        "steps": [
+            "In a bowl, whisk yogurt with water until smooth.",
+            "Add chopped walnuts, cucumber, mint, and raisins. Stir to combine.",
+            "Season with salt to taste.",
+            "Chill for 15 minutes before serving cold."
+        ],
+        "nutritions": {
+            "calories": 250,
+            "fat": 15.0,
+            "cholesterol": 20.0,
+            "sodium": 300.0,
+            "carbohydrates": 20.0,
+            "protein": 8.0
+        }
+    },
+    {
+        "id": "2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d",
+        "title": "Persian Rosy Rice Pudding",
+        "description": "A fragrant rice pudding infused with rosewater and saffron, a classic Persian dessert.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 45
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dessert"],
+        "dietTags": ["Vegetarian"],
+        "allergens": ["Dairy"],
+        "ingredients": [
+            {
+                "name": "basmati rice",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": "rinsed"
+            },
+            {
+                "name": "milk",
+                "quantity": "4",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "sugar",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "rosewater",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "saffron",
+                "quantity": "0.25",
+                "unit": "tsp",
+                "note": "dissolved in 2 tbsp hot water"
+            },
+            {
+                "name": "pistachios",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": "chopped, for garnish"
+            }
+        ],
+        "steps": [
+            "Cook rice in boiling water for 10 minutes, then drain.",
+            "In a pot, heat milk and add cooked rice. Simmer for 20 minutes, stirring occasionally.",
+            "Add sugar and saffron water, cook for 10 minutes until thickened.",
+            "Stir in rosewater and remove from heat.",
+            "Serve warm or chilled, garnished with pistachios."
+        ],
+        "nutritions": {
+            "calories": 300,
+            "fat": 8.0,
+            "cholesterol": 20.0,
+            "sodium": 100.0,
+            "carbohydrates": 50.0,
+            "protein": 8.0
+        }
+    },
+    {
+        "id": "3b4c5d6e-7f8a-9b0c-1d2e-3f4a5b6c7d8e",
+        "title": "Fenugreek Lamb Stew",
+        "description": "A savory lamb stew with fenugreek leaves, offering a distinctive Persian flavor.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 90
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "lamb shoulder",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "cubed"
+            },
+            {
+                "name": "dried fenugreek leaves",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "tomato paste",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "turmeric",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "water",
+                "quantity": "3",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a pot, sauté onion until golden, about 5 minutes.",
+            "Add turmeric and lamb, cook until browned, about 8 minutes.",
+            "Stir in tomato paste and fenugreek leaves, cook for 2 minutes.",
+            "Add water, bring to a boil, then simmer for 75 minutes until lamb is tender.",
+            "Season with salt and serve with rice."
+        ],
+        "nutritions": {
+            "calories": 480,
+            "fat": 30.0,
+            "cholesterol": 100.0,
+            "sodium": 600.0,
+            "carbohydrates": 10.0,
+            "protein": 35.0
+        }
+    },
+    {
+        "id": "4c5d6e7f-8a9b-0c1d-2e3f-4a5b6c7d8e9f",
+        "title": "Persian Cinnamon Beef Stew",
+        "description": "A rich beef stew infused with cinnamon and Persian spices for a warm, aromatic dish.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 90
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "beef chuck",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "cubed"
+            },
+            {
+                "name": "cinnamon",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "tomato paste",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "turmeric",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "water",
+                "quantity": "3",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a pot, sauté onion until golden, about 5 minutes.",
+            "Add turmeric, cinnamon, and beef, cook until browned, about 8 minutes.",
+            "Stir in tomato paste, cook for 2 minutes.",
+            "Add water, bring to a boil, then simmer for 75 minutes until beef is tender.",
+            "Season with salt and serve with rice."
+        ],
+        "nutritions": {
+            "calories": 450,
+            "fat": 25.0,
+            "cholesterol": 90.0,
+            "sodium": 600.0,
+            "carbohydrates": 10.0,
+            "protein": 35.0
+        }
+    },
+    {
+        "id": "5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a",
+        "title": "Persian Lemon Kabobs",
+        "description": "Juicy meat kabobs marinated with lemon and Persian spices, perfect for grilling.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 30
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "beef or lamb",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "cubed"
+            },
+            {
+                "name": "lemon juice",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "saffron",
+                "quantity": "0.25",
+                "unit": "tsp",
+                "note": "dissolved in 2 tbsp hot water"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "grated"
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Mix lemon juice, saffron water, olive oil, grated onion, and salt to make a marinade.",
+            "Marinate meat cubes for at least 1 hour.",
+            "Thread meat onto skewers and grill over medium heat for 10–12 minutes, turning occasionally.",
+            "Serve hot with rice or flatbread."
+        ],
+        "nutritions": {
+            "calories": 320,
+            "fat": 20.0,
+            "cholesterol": 80.0,
+            "sodium": 500.0,
+            "carbohydrates": 2.0,
+            "protein": 25.0
+        }
+    },
+    {
+        "id": "6e7f8a9b-0c1d-2e3f-4a5b-6c7d8e9f0a1b",
+        "title": "Cucumber, Onion, Parsley, and Tomato Salad (Shiraz)",
+        "description": "A refreshing Persian salad from Shiraz, featuring crisp vegetables and a tangy dressing.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 15
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Side", "Lunch"],
+        "dietTags": ["Vegan", "Vegetarian"],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "cucumber",
+                "quantity": "2",
+                "unit": null,
+                "note": "diced"
+            },
+            {
+                "name": "tomato",
+                "quantity": "2",
+                "unit": null,
+                "note": "diced"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "fresh parsley",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "lemon juice",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "olive oil",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Combine cucumber, tomato, onion, and parsley in a bowl.",
+            "Mix lemon juice, olive oil, and salt to make a dressing.",
+            "Toss vegetables with dressing.",
+            "Serve immediately or chill for 10 minutes."
+        ],
+        "nutritions": {
+            "calories": 100,
+            "fat": 7.0,
+            "cholesterol": 0.0,
+            "sodium": 150.0,
+            "carbohydrates": 10.0,
+            "protein": 2.0
+        }
+    },
+    {
+        "id": "7f8a9b0c-1d2e-3f4a-5b6c-7d8e9f0a1b2c",
+        "title": "Persian Meat and Kidney Bean Stew (Khoresh)",
+        "description": "A hearty Persian khoresh with tender meat and kidney beans in a rich tomato sauce.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 90
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "beef or lamb",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "cubed"
+            },
+            {
+                "name": "kidney beans",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "cooked"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "tomato paste",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "turmeric",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "dried limes",
+                "quantity": "2",
+                "unit": null,
+                "note": "pierced"
+            },
+            {
+                "name": "water",
+                "quantity": "3",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a pot, sauté onion until golden, about 5 minutes.",
+            "Add turmeric and meat, cook until browned, about 8 minutes.",
+            "Stir in tomato paste and dried limes, cook for 2 minutes.",
+            "Add kidney beans and water, bring to a boil, then simmer for 75 minutes.",
+            "Season with salt and serve with rice."
+        ],
+        "nutritions": {
+            "calories": 460,
+            "fat": 25.0,
+            "cholesterol": 80.0,
+            "sodium": 600.0,
+            "carbohydrates": 20.0,
+            "protein": 35.0
+        }
+    },
+    {
+        "id": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3d",
+        "title": "National Iranian Green Stew",
+        "description": "A vibrant green stew packed with fresh herbs and tender meat, a Persian classic known as Ghormeh Sabzi.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 120
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "beef or lamb",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "cubed"
+            },
+            {
+                "name": "fresh parsley",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "fresh cilantro",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "fresh chives",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "dried fenugreek leaves",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "kidney beans",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "cooked"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "dried limes",
+                "quantity": "2",
+                "unit": null,
+                "note": "pierced"
+            },
+            {
+                "name": "water",
+                "quantity": "3",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a pot, sauté onion until golden, about 5 minutes.",
+            "Add meat and cook until browned, about 8 minutes.",
+            "Stir in parsley, cilantro, chives, and fenugreek leaves, cook for 5 minutes.",
+            "Add kidney beans, dried limes, and water. Bring to a boil, then simmer for 100 minutes.",
+            "Season with salt and serve with rice."
+        ],
+        "nutritions": {
+            "calories": 450,
+            "fat": 25.0,
+            "cholesterol": 80.0,
+            "sodium": 600.0,
+            "carbohydrates": 20.0,
+            "protein": 35.0
+        }
+    },
+    {
+        "id": "9b0c1d2e-3f4a-5b6c-7d8e-9f0a1b2c3d4e",
+        "title": "Persian Saffron Rice",
+        "description": "A fragrant basmati rice dish infused with saffron, a staple in Persian cuisine.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 40
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Side", "Dinner"],
+        "dietTags": ["Vegan", "Vegetarian"],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "basmati rice",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "rinsed"
+            },
+            {
+                "name": "saffron",
+                "quantity": "0.25",
+                "unit": "tsp",
+                "note": "dissolved in 2 tbsp hot water"
+            },
+            {
+                "name": "butter",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            },
+            {
+                "name": "water",
+                "quantity": "2",
+                "unit": "cups",
+                "note": null
+            }
+        ],
+        "steps": [
+            "Rinse basmati rice until water runs clear, then soak for 20 minutes and drain.",
+            "In a pot, bring water to a boil, add rice and salt, and cook for 10 minutes until partially cooked. Drain.",
+            "Melt butter in the same pot, add half the rice, drizzle with saffron water, then add remaining rice.",
+            "Cover and steam over low heat for 20 minutes until rice is fluffy.",
+            "Serve warm as a side dish."
+        ],
+        "nutritions": {
+            "calories": 250,
+            "fat": 8.0,
+            "cholesterol": 20.0,
+            "sodium": 200.0,
+            "carbohydrates": 40.0,
+            "protein": 5.0
+        }
+    },
+    {
+        "id": "0c1d2e3f-4a5b-6c7d-8e9f-0a1b2c3d4e5f",
+        "title": "Persian Pomegranate Chicken",
+        "description": "A rich chicken stew with pomegranate molasses and walnuts, inspired by the classic Persian fesenjan.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 60
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": ["Nuts"],
+        "ingredients": [
+            {
+                "name": "chicken thighs",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "boneless, cubed"
+            },
+            {
+                "name": "walnuts",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": "ground"
+            },
+            {
+                "name": "pomegranate molasses",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "sugar",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "water",
+                "quantity": "2",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Toast ground walnuts in a dry pan until fragrant, about 5 minutes, then set aside.",
+            "Heat olive oil in a pot, sauté onion until golden, about 5 minutes.",
+            "Add chicken and cook until browned, about 8 minutes.",
+            "Stir in walnuts, pomegranate molasses, sugar, and water. Simmer for 40 minutes.",
+            "Season with salt and serve with rice."
+        ],
+        "nutritions": {
+            "calories": 500,
+            "fat": 35.0,
+            "cholesterol": 90.0,
+            "sodium": 500.0,
+            "carbohydrates": 15.0,
+            "protein": 30.0
+        }
+    },
+    {
+        "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+        "title": "Persian Herb Frittata (Kuku Sabzi)",
+        "description": "A vibrant green frittata packed with fresh herbs, a Persian classic for any meal.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 30
+        },
+        "cuisine": "Persian",
+        "mealType": ["Breakfast", "Lunch"],
+        "dietTags": ["Vegetarian"],
+        "allergens": ["Eggs"],
+        "ingredients": [
+            {
+                "name": "eggs",
+                "quantity": "6",
+                "unit": null,
+                "note": null
+            },
+            {
+                "name": "fresh parsley",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "fresh cilantro",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "fresh dill",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "green onions",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "turmeric",
+                "quantity": "0.5",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "In a bowl, whisk eggs with turmeric and salt.",
+            "Add chopped parsley, cilantro, dill, and green onions. Mix well.",
+            "Heat olive oil in a skillet over medium heat.",
+            "Pour egg mixture into the skillet and cook for 10–12 minutes until set.",
+            "Flip or broil to cook the top, then serve warm or at room temperature."
+        ],
+        "nutritions": {
+            "calories": 220,
+            "fat": 15.0,
+            "cholesterol": 280.0,
+            "sodium": 300.0,
+            "carbohydrates": 5.0,
+            "protein": 12.0
+        }
+    },
+    {
+        "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+        "title": "Pomegranate and Walnut Salad",
+        "description": "A refreshing salad with pomegranate seeds and walnuts, dressed with a tangy pomegranate molasses.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 15
+        },
+        "cuisine": "Persian",
+        "mealType": ["Side", "Lunch"],
+        "dietTags": ["Vegan", "Vegetarian"],
+        "allergens": ["Nuts"],
+        "ingredients": [
+            {
+                "name": "pomegranate seeds",
+                "quantity": "1",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "walnuts",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "mixed greens",
+                "quantity": "2",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "pomegranate molasses",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "olive oil",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "lemon juice",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Combine pomegranate seeds, walnuts, and mixed greens in a bowl.",
+            "Mix pomegranate molasses, olive oil, lemon juice, and salt to make a dressing.",
+            "Toss salad with dressing.",
+            "Serve immediately or chill for 10 minutes."
+        ],
+        "nutritions": {
+            "calories": 180,
+            "fat": 12.0,
+            "cholesterol": 0.0,
+            "sodium": 150.0,
+            "carbohydrates": 15.0,
+            "protein": 4.0
+        }
+    },
+    {
+        "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+        "title": "Persian Barberry Rice (Zereshk Polo)",
+        "description": "A colorful basmati rice dish with tangy barberries and saffron, a Persian favorite.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 45
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Side", "Dinner"],
+        "dietTags": ["Vegetarian"],
+        "allergens": ["Dairy"],
+        "ingredients": [
+            {
+                "name": "basmati rice",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "rinsed"
+            },
+            {
+                "name": "dried barberries",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "soaked"
+            },
+            {
+                "name": "saffron",
+                "quantity": "0.25",
+                "unit": "tsp",
+                "note": "dissolved in 2 tbsp hot water"
+            },
+            {
+                "name": "butter",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "sugar",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "water",
+                "quantity": "2",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Rinse basmati rice until water runs clear, soak for 20 minutes, then drain.",
+            "In a pot, bring water to a boil, add rice and salt, cook for 10 minutes, then drain.",
+            "Melt butter in the pot, sauté barberries with sugar for 2 minutes.",
+            "Add half the rice, drizzle with saffron water, then add remaining rice.",
+            "Cover and steam over low heat for 20 minutes. Serve warm."
+        ],
+        "nutritions": {
+            "calories": 270,
+            "fat": 8.0,
+            "cholesterol": 20.0,
+            "sodium": 200.0,
+            "carbohydrates": 45.0,
+            "protein": 5.0
+        }
+    },
+    {
+        "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+        "title": "Chicken with Dried Apricots",
+        "description": "A sweet and savory chicken dish with dried apricots and Persian spices.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 60
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "chicken thighs",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "boneless, cubed"
+            },
+            {
+                "name": "dried apricots",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": "soaked"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "tomato paste",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "turmeric",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "cinnamon",
+                "quantity": "0.5",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "water",
+                "quantity": "2",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a pot, sauté onion until golden, about 5 minutes.",
+            "Add turmeric, cinnamon, and chicken, cook until browned, about 8 minutes.",
+            "Stir in tomato paste and soaked apricots, cook for 2 minutes.",
+            "Add water, bring to a boil, then simmer for 45 minutes until chicken is tender.",
+            "Season with salt and serve with rice."
+        ],
+        "nutritions": {
+            "calories": 420,
+            "fat": 20.0,
+            "cholesterol": 90.0,
+            "sodium": 500.0,
+            "carbohydrates": 25.0,
+            "protein": 30.0
+        }
+    },
+    {
+        "id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+        "title": "Persian Almond Cookies",
+        "description": "Delicate almond cookies flavored with cardamom, a perfect Persian dessert.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 25
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dessert"],
+        "dietTags": ["Vegetarian"],
+        "allergens": ["Nuts", "Dairy"],
+        "ingredients": [
+            {
+                "name": "almond flour",
+                "quantity": "1",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "sugar",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "butter",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "melted"
+            },
+            {
+                "name": "cardamom",
+                "quantity": "0.5",
+                "unit": "tsp",
+                "note": "ground"
+            },
+            {
+                "name": "rosewater",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "slivered almonds",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": "for garnish"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 350°F (175°C).",
+            "Mix almond flour, sugar, cardamom, and rosewater in a bowl.",
+            "Stir in melted butter to form a dough.",
+            "Shape into small balls, flatten slightly, and place on a baking sheet.",
+            "Garnish with slivered almonds and bake for 12–15 minutes until golden.",
+            "Cool before serving."
+        ],
+        "nutritions": {
+            "calories": 150,
+            "fat": 10.0,
+            "cholesterol": 15.0,
+            "sodium": 50.0,
+            "carbohydrates": 12.0,
+            "protein": 3.0
+        }
+    },
+    {
+        "id": "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+        "title": "Eggplant and Tomato Stew (Khoresh Bademjan)",
+        "description": "A rich Persian stew with eggplant and tender meat in a tangy tomato sauce.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 90
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "eggplant",
+                "quantity": "1",
+                "unit": null,
+                "note": "sliced and salted"
+            },
+            {
+                "name": "beef or lamb",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "cubed"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "tomato paste",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "tomatoes",
+                "quantity": "2",
+                "unit": null,
+                "note": "chopped"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "3",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "turmeric",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "dried limes",
+                "quantity": "2",
+                "unit": null,
+                "note": "pierced"
+            },
+            {
+                "name": "water",
+                "quantity": "2",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Fry eggplant slices in 2 tbsp olive oil until golden, then set aside.",
+            "In a pot, heat 1 tbsp olive oil, sauté onion until golden, about 5 minutes.",
+            "Add turmeric and meat, cook until browned, about 8 minutes.",
+            "Stir in tomato paste, chopped tomatoes, and dried limes, cook for 2 minutes.",
+            "Add water and eggplant, simmer for 60 minutes until meat is tender.",
+            "Season with salt and serve with rice."
+        ],
+        "nutritions": {
+            "calories": 450,
+            "fat": 25.0,
+            "cholesterol": 80.0,
+            "sodium": 600.0,
+            "carbohydrates": 20.0,
+            "protein": 30.0
+        }
+    },
+    {
+        "id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+        "title": "Persian Spiced Meatballs (Koofteh)",
+        "description": "Flavorful meatballs with herbs and rice, simmered in a rich tomato sauce.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 60
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": ["Eggs"],
+        "ingredients": [
+            {
+                "name": "ground beef or lamb",
+                "quantity": "1",
+                "unit": "lb",
+                "note": null
+            },
+            {
+                "name": "basmati rice",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "cooked"
+            },
+            {
+                "name": "egg",
+                "quantity": "1",
+                "unit": null,
+                "note": null
+            },
+            {
+                "name": "fresh parsley",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "grated"
+            },
+            {
+                "name": "tomato paste",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "turmeric",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "water",
+                "quantity": "2",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Mix ground meat, cooked rice, egg, parsley, grated onion, turmeric, and salt to form meatballs.",
+            "Heat olive oil in a pot, brown meatballs for 5–7 minutes, then remove.",
+            "In the same pot, sauté tomato paste for 2 minutes, add water, and bring to a boil.",
+            "Return meatballs to the pot and simmer for 45 minutes.",
+            "Serve warm with bread or rice."
+        ],
+        "nutritions": {
+            "calories": 400,
+            "fat": 20.0,
+            "cholesterol": 100.0,
+            "sodium": 500.0,
+            "carbohydrates": 15.0,
+            "protein": 25.0
+        }
+    },
+    {
+        "id": "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+        "title": "Cucumber Yogurt Dip (Mast-o-Khiar)",
+        "description": "A creamy yogurt dip with cucumber and mint, perfect as a side or appetizer.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 15
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Side", "Appetizer"],
+        "dietTags": ["Vegetarian"],
+        "allergens": ["Dairy"],
+        "ingredients": [
+            {
+                "name": "plain yogurt",
+                "quantity": "2",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "cucumber",
+                "quantity": "1",
+                "unit": null,
+                "note": "grated and drained"
+            },
+            {
+                "name": "fresh mint",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": "chopped"
+            },
+            {
+                "name": "dried mint",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Grate cucumber and squeeze out excess water.",
+            "Mix yogurt, cucumber, fresh mint, dried mint, and salt in a bowl.",
+            "Chill for 10 minutes before serving.",
+            "Serve with flatbread or as a side."
+        ],
+        "nutritions": {
+            "calories": 100,
+            "fat": 4.0,
+            "cholesterol": 15.0,
+            "sodium": 200.0,
+            "carbohydrates": 8.0,
+            "protein": 6.0
+        }
+    },
+    {
+        "id": "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+        "title": "Persian Rosewater Sorbet",
+        "description": "A refreshing sorbet infused with rosewater, a light Persian dessert.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 30
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dessert"],
+        "dietTags": ["Vegan", "Vegetarian"],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "sugar",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "water",
+                "quantity": "1",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "lemon juice",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "rosewater",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            }
+        ],
+        "steps": [
+            "In a saucepan, dissolve sugar in water over medium heat to make a syrup, about 5 minutes.",
+            "Remove from heat, stir in lemon juice and rosewater, and let cool.",
+            "Pour into a shallow dish and freeze for 2 hours, stirring every 30 minutes.",
+            "Serve chilled as a light dessert."
+        ],
+        "nutritions": {
+            "calories": 120,
+            "fat": 0.0,
+            "cholesterol": 0.0,
+            "sodium": 5.0,
+            "carbohydrates": 30.0,
+            "protein": 0.0
+        }
+    },
+    {
+        "id": "0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+        "title": "Lamb and Split Pea Stew (Khoresh Gheymeh)",
+        "description": "A traditional Persian stew with lamb, split peas, and dried limes in a tomato-based sauce.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 90
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "lamb",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "cubed"
+            },
+            {
+                "name": "yellow split peas",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": "soaked"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "tomato paste",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "dried limes",
+                "quantity": "2",
+                "unit": null,
+                "note": "pierced"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "turmeric",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "water",
+                "quantity": "3",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a pot, sauté onion until golden, about 5 minutes.",
+            "Add turmeric and lamb, cook until browned, about 8 minutes.",
+            "Stir in tomato paste and dried limes, cook for 2 minutes.",
+            "Add soaked split peas and water, bring to a boil, then simmer for 75 minutes.",
+            "Season with salt and serve with rice."
+        ],
+        "nutritions": {
+            "calories": 460,
+            "fat": 25.0,
+            "cholesterol": 80.0,
+            "sodium": 600.0,
+            "carbohydrates": 20.0,
+            "protein": 35.0
+        }
+    },
+    {
+        "id": "1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6b",
+        "title": "Persian Jeweled Rice (Morasa Polo)",
+        "description": "A festive basmati rice dish adorned with nuts, dried fruits, and saffron, perfect for special occasions.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 50
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Side", "Dinner"],
+        "dietTags": ["Vegetarian"],
+        "allergens": ["Nuts", "Dairy"],
+        "ingredients": [
+            {
+                "name": "basmati rice",
+                "quantity": "1",
+                "unit": "cup",
+                "note": "rinsed"
+            },
+            {
+                "name": "dried barberries",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "soaked"
+            },
+            {
+                "name": "slivered almonds",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "pistachios",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": "chopped"
+            },
+            {
+                "name": "saffron",
+                "quantity": "0.25",
+                "unit": "tsp",
+                "note": "dissolved in 2 tbsp hot water"
+            },
+            {
+                "name": "butter",
+                "quantity": "3",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "sugar",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "water",
+                "quantity": "2",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Rinse basmati rice until water runs clear, soak for 20 minutes, then drain.",
+            "Boil water, add rice and salt, cook for 10 minutes, then drain.",
+            "In a pan, melt 1 tbsp butter, sauté barberries, almonds, pistachios, and sugar for 3 minutes.",
+            "In a pot, melt 2 tbsp butter, layer half the rice, add saffron water, then add remaining rice.",
+            "Top with nut and fruit mixture, cover, and steam over low heat for 20 minutes.",
+            "Serve warm as a festive side."
+        ],
+        "nutritions": {
+            "calories": 320,
+            "fat": 15.0,
+            "cholesterol": 20.0,
+            "sodium": 200.0,
+            "carbohydrates": 45.0,
+            "protein": 7.0
+        }
+    },
+    {
+        "id": "2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c",
+        "title": "Chicken and Plum Stew (Khoresh Aloo)",
+        "description": "A tangy and sweet Persian stew with chicken and dried plums in a rich sauce.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 60
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": [],
+        "ingredients": [
+            {
+                "name": "chicken thighs",
+                "quantity": "1",
+                "unit": "lb",
+                "note": "boneless, cubed"
+            },
+            {
+                "name": "dried plums",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": "soaked"
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "unit": null,
+                "note": "finely chopped"
+            },
+            {
+                "name": "tomato paste",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "turmeric",
+                "quantity": "1",
+                "unit": "tsp",
+                "note": null
+            },
+            {
+                "name": "saffron",
+                "quantity": "0.25",
+                "unit": "tsp",
+                "note": "dissolved in 2 tbsp hot water"
+            },
+            {
+                "name": "water",
+                "quantity": "2",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a pot, sauté onion until golden, about 5 minutes.",
+            "Add turmeric and chicken, cook until browned, about 8 minutes.",
+            "Stir in tomato paste, dried plums, and saffron water, cook for 2 minutes.",
+            "Add water, bring to a boil, then simmer for 45 minutes until chicken is tender.",
+            "Season with salt and serve with rice."
+        ],
+        "nutritions": {
+            "calories": 430,
+            "fat": 20.0,
+            "cholesterol": 90.0,
+            "sodium": 500.0,
+            "carbohydrates": 25.0,
+            "protein": 30.0
+        }
+    },
+    {
+        "id": "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
+        "title": "Persian Chickpea Cookies (Nan-e Nokhodchi)",
+        "description": "Delicate, melt-in-the-mouth cookies made with chickpea flour and cardamom.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 25
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dessert"],
+        "dietTags": ["Vegetarian"],
+        "allergens": ["Dairy"],
+        "ingredients": [
+            {
+                "name": "chickpea flour",
+                "quantity": "1",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "powdered sugar",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "butter",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": "melted"
+            },
+            {
+                "name": "cardamom",
+                "quantity": "0.5",
+                "unit": "tsp",
+                "note": "ground"
+            },
+            {
+                "name": "pistachios",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": "chopped, for garnish"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 325°F (165°C).",
+            "Mix chickpea flour, powdered sugar, and cardamom in a bowl.",
+            "Stir in melted butter to form a soft dough.",
+            "Shape into small clover-shaped cookies and place on a baking sheet.",
+            "Garnish with pistachios and bake for 15–18 minutes until lightly golden.",
+            "Cool before serving."
+        ],
+        "nutritions": {
+            "calories": 140,
+            "fat": 9.0,
+            "cholesterol": 20.0,
+            "sodium": 50.0,
+            "carbohydrates": 12.0,
+            "protein": 2.0
+        }
+    },
+    {
+        "id": "4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9e",
+        "title": "Spinach and Yogurt Dip (Borani Esfenaj)",
+        "description": "A creamy yogurt dip with sautéed spinach and garlic, perfect as a side or appetizer.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 20
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Side", "Appetizer"],
+        "dietTags": ["Vegetarian"],
+        "allergens": ["Dairy"],
+        "ingredients": [
+            {
+                "name": "spinach",
+                "quantity": "2",
+                "unit": "cups",
+                "note": "chopped"
+            },
+            {
+                "name": "plain yogurt",
+                "quantity": "1",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "garlic",
+                "quantity": "1",
+                "unit": "clove",
+                "note": "minced"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat olive oil in a pan, sauté garlic until fragrant, about 1 minute.",
+            "Add chopped spinach and cook until wilted, about 3 minutes. Let cool.",
+            "Mix spinach and garlic with yogurt in a bowl.",
+            "Season with salt and chill for 15 minutes.",
+            "Serve with flatbread or as a side."
+        ],
+        "nutritions": {
+            "calories": 120,
+            "fat": 6.0,
+            "cholesterol": 10.0,
+            "sodium": 200.0,
+            "carbohydrates": 8.0,
+            "protein": 6.0
+        }
+    },
+    {
+        "id": "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f",
+        "title": "Persian Grilled Fish",
+        "description": "Tender fish fillets marinated with saffron and lemon, grilled to perfection.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 25
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dinner"],
+        "dietTags": [],
+        "allergens": ["Fish"],
+        "ingredients": [
+            {
+                "name": "white fish fillets (e.g., cod or tilapia)",
+                "quantity": "1",
+                "unit": "lb",
+                "note": null
+            },
+            {
+                "name": "lemon juice",
+                "quantity": "0.25",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "saffron",
+                "quantity": "0.25",
+                "unit": "tsp",
+                "note": "dissolved in 2 tbsp hot water"
+            },
+            {
+                "name": "olive oil",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "garlic",
+                "quantity": "1",
+                "unit": "clove",
+                "note": "minced"
+            },
+            {
+                "name": "salt",
+                "quantity": null,
+                "unit": null,
+                "note": "to taste"
+            }
+        ],
+        "steps": [
+            "Mix lemon juice, saffron water, olive oil, garlic, and salt to make a marinade.",
+            "Marinate fish fillets for 30 minutes.",
+            "Preheat grill to medium heat.",
+            "Grill fish for 4–5 minutes per side until cooked through.",
+            "Serve hot with rice or salad."
+        ],
+        "nutritions": {
+            "calories": 280,
+            "fat": 15.0,
+            "cholesterol": 60.0,
+            "sodium": 400.0,
+            "carbohydrates": 2.0,
+            "protein": 25.0
+        }
+    },
+    {
+        "id": "6d7e8f9a-0b1c-2d3e-4f5a-6b7c8d9e0f1a",
+        "title": "Saffron and Rosewater Ice Cream",
+        "description": "A creamy Persian ice cream infused with saffron and rosewater, a delightful dessert.",
+        "imageURL": null,
+        "cookTime": {
+            "minutes": 40
+            
+        },
+        "cuisine": "Persian",
+        "mealType": ["Dessert"],
+        "dietTags": ["Vegetarian"],
+        "allergens": ["Dairy"],
+        "ingredients": [
+            {
+                "name": "heavy cream",
+                "quantity": "2",
+                "unit": "cups",
+                "note": null
+            },
+            {
+                "name": "milk",
+                "quantity": "1",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "sugar",
+                "quantity": "0.5",
+                "unit": "cup",
+                "note": null
+            },
+            {
+                "name": "saffron",
+                "quantity": "0.25",
+                "unit": "tsp",
+                "note": "dissolved in 2 tbsp hot water"
+            },
+            {
+                "name": "rosewater",
+                "quantity": "1",
+                "unit": "tbsp",
+                "note": null
+            },
+            {
+                "name": "pistachios",
+                "quantity": "2",
+                "unit": "tbsp",
+                "note": "chopped, for garnish"
+            }
+        ],
+        "steps": [
+            "In a saucepan, heat milk, cream, and sugar until sugar dissolves, about 5 minutes. Do not boil.",
+            "Remove from heat, stir in saffron water and rosewater, and let cool.",
+            "Churn in an ice cream maker for 20–25 minutes until set.",
+            "Freeze for 2 hours to firm up.",
+            "Serve with a sprinkle of pistachios."
+        ],
+        "nutritions": {
+            "calories": 250,
+            "fat": 20.0,
+            "cholesterol": 70.0,
+            "sodium": 50.0,
+            "carbohydrates": 15.0,
+            "protein": 4.0
+        }
     }
-  ]
-}
+]

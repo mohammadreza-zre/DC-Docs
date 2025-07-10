@@ -5,14 +5,8 @@
         "description": "A flavorful Persian stew combining the tangy notes of orange and lime with kidney beans and jalapeño, served warm with flatbread.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 52
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 493
-            }
+            "minutes": 52
+            
         },
         "cuisine": "Persian",
         "mealType": ["Lunch", "Dinner"],
@@ -90,14 +84,8 @@
         "description": "A hearty Persian stew featuring potatoes and rice, infused with aromatic spices for a comforting meal.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 60
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 350
-            }
+            "minutes": 60
+            
         },
         "cuisine": "Persian",
         "mealType": ["Lunch", "Dinner"],
@@ -168,14 +156,8 @@
         "description": "A fragrant rice dish with nuts and Persian spices, perfect as a side or main course.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 40
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 400
-            }
+            "minutes": 40
+            
         },
         "cuisine": "Persian",
         "mealType": ["Side", "Dinner"],
@@ -240,14 +222,8 @@
         "description": "A vibrant pilaf combining pistachios and beans with aromatic Persian spices.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 50
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 380
-            }
+            "minutes": 50
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -318,14 +294,8 @@
         "description": "A comforting Persian soup with noodles and beans, flavored with traditional herbs.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 45
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 320
-            }
+            "minutes": 45
+            
         },
         "cuisine": "Persian",
         "mealType": ["Lunch", "Dinner"],
@@ -396,14 +366,8 @@
         "description": "Juicy chicken kabobs marinated with lemon and Persian spices, perfect for grilling.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 30
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 300
-            }
+            "minutes": 30
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -462,14 +426,8 @@
         "description": "A savory soup featuring chicken wings and Persian spices for a warming dish.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 60
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 350
-            }
+            "minutes": 60
+            
         },
         "cuisine": "Persian",
         "mealType": ["Lunch", "Dinner"],
@@ -534,14 +492,8 @@
         "description": "Flavorful meatballs with potatoes and peppers, infused with Persian spices.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 45
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 400
-            }
+            "minutes": 45
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -612,14 +564,8 @@
         "description": "A sweet and savory pilaf with chicken and berries, a classic Persian combination.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 50
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 450
-            }
+            "minutes": 50
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -690,14 +636,8 @@
         "description": "A tangy lamb stew with dried limes, a staple in Persian cuisine, for a rich and flavorful dish.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 90
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 500
-            }
+            "minutes": 90
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -774,14 +714,8 @@
         "description": "A light and flavorful Persian frittata featuring zucchini and fresh herbs, perfect for brunch or a light meal.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 30
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 200
-            }
+            "minutes": 30
+            
         },
         "cuisine": "Persian",
         "mealType": ["Lunch", "Dinner"],
@@ -853,14 +787,8 @@
         "description": "A nutritious Persian frittata packed with spinach and herbs, ideal for a healthy meal.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 30
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 210
-            }
+            "minutes": 30
+            
         },
         "cuisine": "Persian",
         "mealType": ["Lunch", "Dinner"],
@@ -932,14 +860,8 @@
         "description": "Tender lamb glazed with Persian spices, served alongside a refreshing fruit salad.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 60
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 550
-            }
+            "minutes": 60
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -1011,14 +933,8 @@
         "description": "A creamy chicken salad with dill and Persian spices, perfect for a light meal or appetizer.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 40
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 350
-            }
+            "minutes": 40
+            
         },
         "cuisine": "Persian",
         "mealType": ["Lunch", "Dinner"],
@@ -1083,14 +999,8 @@
         "description": "Succulent meat kabobs marinated with saffron and spices, a Persian classic.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 30
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 320
-            }
+            "minutes": 30
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -1155,14 +1065,8 @@
         "description": "A rich and unique stew featuring lamb tongue and Persian spices, slow-cooked for tenderness.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 120
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 450
-            }
+            "minutes": 120
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -1240,14 +1144,8 @@
         "description": "A hearty soup with lentils and meatballs, flavored with Persian spices.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 60
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 400
-            }
+            "minutes": 60
+            
         },
         "cuisine": "Persian",
         "mealType": ["Lunch", "Dinner"],
@@ -1319,14 +1217,8 @@
         "description": "A savory frittata with roasted eggplant and Persian herbs, perfect for any meal.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 40
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 220
-            }
+            "minutes": 40
+            
         },
         "cuisine": "Persian",
         "mealType": ["Lunch", "Dinner"],
@@ -1398,14 +1290,8 @@
         "description": "A rich duck dish with a nutty Persian sauce, showcasing bold flavors.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 90
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 600
-            }
+            "minutes": 90
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -1477,14 +1363,8 @@
         "description": "A refreshing fruit salad with nuts and a hint of Persian rosewater.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 15
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 200
-            }
+            "minutes": 15
+            
         },
         "cuisine": "Persian",
         "mealType": ["Side", "Dessert"],
@@ -1549,14 +1429,8 @@
         "description": "A creamy yogurt-based soup with nuts and herbs, served chilled for a refreshing dish.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 20
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 250
-            }
+            "minutes": 20
+            
         },
         "cuisine": "Persian",
         "mealType": ["Lunch", "Side"],
@@ -1627,14 +1501,8 @@
         "description": "A fragrant rice pudding infused with rosewater and saffron, a classic Persian dessert.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 45
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 300
-            }
+            "minutes": 45
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dessert"],
@@ -1700,14 +1568,8 @@
         "description": "A savory lamb stew with fenugreek leaves, offering a distinctive Persian flavor.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 90
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 480
-            }
+            "minutes": 90
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -1785,14 +1647,8 @@
         "description": "A rich beef stew infused with cinnamon and Persian spices for a warm, aromatic dish.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 90
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 450
-            }
+            "minutes": 90
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -1870,14 +1726,8 @@
         "description": "Juicy meat kabobs marinated with lemon and Persian spices, perfect for grilling.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 30
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 320
-            }
+            "minutes": 30
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -1942,14 +1792,8 @@
         "description": "A refreshing Persian salad from Shiraz, featuring crisp vegetables and a tangy dressing.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 15
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 100
-            }
+            "minutes": 15
+            
         },
         "cuisine": "Persian",
         "mealType": ["Side", "Lunch"],
@@ -2020,14 +1864,8 @@
         "description": "A hearty Persian khoresh with tender meat and kidney beans in a rich tomato sauce.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 90
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 460
-            }
+            "minutes": 90
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -2111,14 +1949,8 @@
         "description": "A vibrant green stew packed with fresh herbs and tender meat, a Persian classic known as Ghormeh Sabzi.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 120
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 450
-            }
+            "minutes": 120
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -2214,14 +2046,8 @@
         "description": "A fragrant basmati rice dish infused with saffron, a staple in Persian cuisine.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 40
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 250
-            }
+            "minutes": 40
+            
         },
         "cuisine": "Persian",
         "mealType": ["Side", "Dinner"],
@@ -2281,14 +2107,7 @@
         "description": "A rich chicken stew with pomegranate molasses and walnuts, inspired by the classic Persian fesenjan.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 60
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 500
-            }
+            "minutes": 60
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -2366,14 +2185,7 @@
         "description": "A vibrant green frittata packed with fresh herbs, a Persian classic for any meal.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 30
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 220
-            }
+            "minutes": 30
         },
         "cuisine": "Persian",
         "mealType": ["Breakfast", "Lunch"],
@@ -2451,14 +2263,7 @@
         "description": "A refreshing salad with pomegranate seeds and walnuts, dressed with a tangy pomegranate molasses.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 15
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 180
-            }
+            "minutes": 15
         },
         "cuisine": "Persian",
         "mealType": ["Side", "Lunch"],
@@ -2529,14 +2334,8 @@
         "description": "A colorful basmati rice dish with tangy barberries and saffron, a Persian favorite.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 45
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 270
-            }
+            "minutes": 45
+            
         },
         "cuisine": "Persian",
         "mealType": ["Side", "Dinner"],
@@ -2608,14 +2407,8 @@
         "description": "A sweet and savory chicken dish with dried apricots and Persian spices.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 60
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 420
-            }
+            "minutes": 60
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -2699,14 +2492,8 @@
         "description": "Delicate almond cookies flavored with cardamom, a perfect Persian dessert.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 25
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 150
-            }
+            "minutes": 25
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dessert"],
@@ -2773,14 +2560,8 @@
         "description": "A rich Persian stew with eggplant and tender meat in a tangy tomato sauce.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 90
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 450
-            }
+            "minutes": 90
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -2871,14 +2652,8 @@
         "description": "Flavorful meatballs with herbs and rice, simmered in a rich tomato sauce.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 60
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 400
-            }
+            "minutes": 60
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -2968,14 +2743,8 @@
         "description": "A creamy yogurt dip with cucumber and mint, perfect as a side or appetizer.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 15
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 100
-            }
+            "minutes": 15
+            
         },
         "cuisine": "Persian",
         "mealType": ["Side", "Appetizer"],
@@ -3034,14 +2803,8 @@
         "description": "A refreshing sorbet infused with rosewater, a light Persian dessert.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 30
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 120
-            }
+            "minutes": 30
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dessert"],
@@ -3094,14 +2857,8 @@
         "description": "A traditional Persian stew with lamb, split peas, and dried limes in a tomato-based sauce.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 90
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 460
-            }
+            "minutes": 90
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -3185,14 +2942,8 @@
         "description": "A festive basmati rice dish adorned with nuts, dried fruits, and saffron, perfect for special occasions.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 50
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 320
-            }
+            "minutes": 50
+            
         },
         "cuisine": "Persian",
         "mealType": ["Side", "Dinner"],
@@ -3277,14 +3028,8 @@
         "description": "A tangy and sweet Persian stew with chicken and dried plums in a rich sauce.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 60
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 430
-            }
+            "minutes": 60
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -3368,14 +3113,8 @@
         "description": "Delicate, melt-in-the-mouth cookies made with chickpea flour and cardamom.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 25
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 140
-            }
+            "minutes": 25
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dessert"],
@@ -3436,14 +3175,8 @@
         "description": "A creamy yogurt dip with sautéed spinach and garlic, perfect as a side or appetizer.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 20
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 120
-            }
+            "minutes": 20
+            
         },
         "cuisine": "Persian",
         "mealType": ["Side", "Appetizer"],
@@ -3503,14 +3236,8 @@
         "description": "Tender fish fillets marinated with saffron and lemon, grilled to perfection.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 25
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 280
-            }
+            "minutes": 25
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dinner"],
@@ -3576,14 +3303,8 @@
         "description": "A creamy Persian ice cream infused with saffron and rosewater, a delightful dessert.",
         "imageURL": null,
         "cookTime": {
-            "total": {
-                "minutes": 40
-            }
-        },
-        "calories": {
-            "perServing": {
-                "calories": 250
-            }
+            "minutes": 40
+            
         },
         "cuisine": "Persian",
         "mealType": ["Dessert"],

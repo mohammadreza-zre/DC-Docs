@@ -3369,7 +3369,9 @@
     "title": "Italian Baked Meatballs",
     "description": "Juicy homemade meatballs with Italian seasoning, baked to perfection.",
     "imageURL": null,
-    "cookTime": 50,
+    "cookTime": {
+        "minutes": 50
+    },
     "cuisine": "Italian",
     "mealType": ["Lunch", "Dinner"],
     "dietTags": ["High-Protein"],
@@ -3409,7 +3411,9 @@
     "title": "Traditional Spaghetti all'Amatriciana",
     "description": "Classic Italian pasta dish with pancetta and tomato sauce.",
     "imageURL": null,
-    "cookTime": 30,
+    "cookTime": {
+        "minutes": 30
+    },
     "cuisine": "Italian",
     "mealType": ["Lunch", "Dinner"],
     "dietTags": [],
@@ -3449,7 +3453,9 @@
     "title": "Hearty Minestrone Soup (Instant Pot)",
     "description": "Vegetable-packed Italian soup with beef and pasta, made quickly in an Instant Pot.",
     "imageURL": null,
-    "cookTime": 85,
+    "cookTime": {
+        "minutes": 85
+    },
     "cuisine": "Italian",
     "mealType": ["Lunch", "Dinner"],
     "dietTags": ["Gluten-Free"],
@@ -3498,7 +3504,9 @@
     "title": "Lasagne alla Bolognese Saporite",
     "description": "Rich Italian lasagna with meat sauce and creamy béchamel.",
     "imageURL": null,
-    "cookTime": 201,
+    "cookTime": {
+        "minutes": 201
+    },
     "cuisine": "Italian",
     "mealType": ["Dinner"],
     "dietTags": ["High-Protein"],
@@ -3548,7 +3556,9 @@
     "title": "Chicken Milano",
     "description": "Creamy sun-dried tomato chicken served over fettuccine.",
     "imageURL": null,
-    "cookTime": 30,
+    "cookTime": {
+        "minutes": 30
+    },
     "cuisine": "Italian",
     "mealType": ["Dinner"],
     "dietTags": ["High-Protein"],
@@ -3590,7 +3600,9 @@
     "title": "Italian Sausage Soup with Tortellini",
     "description": "Hearty soup with Italian sausage, vegetables, and cheese tortellini.",
     "imageURL": null,
-    "cookTime": 95,
+    "cookTime": {
+        "minutes": 95
+    },
     "cuisine": "Italian",
     "mealType": ["Lunch", "Dinner"],
     "dietTags": [],
@@ -3635,7 +3647,9 @@
     "title": "American Lasagna",
     "description": "Classic layered lasagna with ricotta and mozzarella.",
     "imageURL": null,
-    "cookTime": 115,
+    "cookTime": {
+        "minutes": 115
+    },
     "cuisine": "American",
     "mealType": ["Dinner"],
     "dietTags": ["High-Protein"],
@@ -3681,7 +3695,9 @@
     "title": "Slow Cooker Italian Beef for Sandwiches",
     "description": "Tender shredded beef cooked with Italian seasonings, perfect for sandwiches.",
     "imageURL": null,
-    "cookTime": 735,
+    "cookTime": {
+        "minutes": 735
+    },
     "cuisine": "Italian",
     "mealType": ["Lunch", "Dinner"],
     "dietTags": ["High-Protein"],
@@ -3721,7 +3737,9 @@
     "title": "Balsamic Roasted Pork Loin",
     "description": "Juicy pork loin marinated in balsamic vinegar and herbs.",
     "imageURL": null,
-    "cookTime": 185,
+    "cookTime": {
+        "minutes": 185
+    },
     "cuisine": "Italian",
     "mealType": ["Dinner"],
     "dietTags": ["High-Protein", "Low-Carb"],
@@ -3755,7 +3773,9 @@
     "title": "Jamie's Minestrone",
     "description": "Vegetable-packed Italian soup with pasta and beans.",
     "imageURL": null,
-    "cookTime": 85,
+    "cookTime": {
+        "minutes": 85
+    },
     "cuisine": "Italian",
     "mealType": ["Lunch", "Dinner"],
     "dietTags": ["Vegetarian"],
@@ -3805,7 +3825,9 @@
          "title": "ITALIAN BREADED PORK CHOPS",
          "description": "A classic Italian dish with breaded and baked pork chops.",
          "imageURL": null,
-         "cookTime": 60,
+         "cookTime": {
+             "minutes": 60
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": ["High-Protein"],
@@ -3846,7 +3868,9 @@
          "title": "SPINACH TOMATO TORTELLINI",
          "description": "A creamy spinach and tomato tortellini dish.",
          "imageURL": null,
-         "cookTime": 40,
+         "cookTime":  {
+             "minutes": 40
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": ["Vegetarian"],
@@ -3890,7 +3914,9 @@
          "title": "PEPPERED SHRIMP ALFREDO",
          "description": "A creamy Alfredo pasta with shrimp and vegetables.",
          "imageURL": null,
-         "cookTime": 50,
+         "cookTime": {
+             "minutes": 50
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": ["High-Protein"],
@@ -3939,7 +3965,9 @@
          "title": "BEST MARINARA SAUCE YET",
          "description": "A flavorful homemade marinara sauce.",
          "imageURL": null,
-         "cookTime": 45,
+         "cookTime": {
+             "minutes": 45
+         },
          "cuisine": "Italian",
          "mealType": ["Side"],
          "dietTags": ["Vegetarian", "Vegan"],
@@ -3979,7 +4007,9 @@
          "title": "THE BEST PARMESAN CHICKEN BAKE",
          "description": "Baked chicken with Parmesan cheese and marinara sauce.",
          "imageURL": null,
-         "cookTime": 50,
+         "cookTime": {
+             "minutes": 50
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": ["High-Protein"],
@@ -4019,7 +4049,9 @@
          "title": "CHEF JOHN'S ITALIAN MEATBALLS",
          "description": "Classic Italian meatballs with ground beef and pork.",
          "imageURL": null,
-         "cookTime": 35,
+         "cookTime": {
+             "minutes": 35
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": ["High-Protein"],
@@ -4069,7 +4101,9 @@
          "title": "PESTO CHICKEN FLORENTINE",
          "description": "Chicken with pesto sauce and spinach served over pasta.",
          "imageURL": null,
-         "cookTime": 55,
+         "cookTime": {
+             "minutes": 55
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": ["High-Protein"],
@@ -4111,7 +4145,9 @@
          "title": "CHICKEN FETTUCCINI ALFREDO",
          "description": "Creamy fettuccini Alfredo with chicken.",
          "imageURL": null,
-         "cookTime": 60,
+         "cookTime": {
+             "minutes": 60
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": ["High-Protein"],
@@ -4163,7 +4199,9 @@
          "title": "TIRAMISU LAYER CAKE",
          "description": "A delicious coffee-flavored Italian dessert cake.",
          "imageURL": null,
-         "cookTime": 20,
+         "cookTime": {
+             "minutes": 20
+         },
          "cuisine": "Italian",
          "mealType": ["Dessert"],
          "dietTags": [],
@@ -4220,7 +4258,9 @@
          "title": "ARTICHOKE SPINACH LASAGNA",
          "description": "A vegetarian lasagna with artichokes and spinach.",
          "imageURL": null,
-         "cookTime": 80,
+         "cookTime": {
+             "minutes": 80
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": ["Vegetarian"],
@@ -4271,7 +4311,9 @@
          "title": "TIRAMISU LAYER CAKE",
          "description": "A delicious layered dessert with coffee flavors and mascarpone cheese.",
          "imageURL": null,
-         "cookTime": 20,
+         "cookTime": {
+             "minutes": 20
+         },
          "cuisine": "Italian",
          "mealType": ["Dessert"],
          "dietTags": [],
@@ -4316,7 +4358,9 @@
          "title": "ARTICHOKE SPINACH LASAGNA",
          "description": "A vegetarian lasagna with artichoke hearts and spinach.",
          "imageURL": null,
-         "cookTime": 60,
+         "cookTime": {
+             "minutes": 60
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": ["Vegetarian"],
@@ -4361,7 +4405,9 @@
          "title": "CHICKEN PARMIGIANA",
          "description": "Breaded chicken breasts topped with tomato sauce and cheese.",
          "imageURL": null,
-         "cookTime": 60,
+         "cookTime": {
+             "minutes": 60
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": ["High-Protein"],
@@ -4397,7 +4443,9 @@
          "title": "PAN-FRIED ASPARAGUS",
          "description": "Simple sautéed asparagus with garlic and olive oil.",
          "imageURL": null,
-         "cookTime": 15,
+         "cookTime": {
+             "minutes": 15
+         },
          "cuisine": "Italian",
          "mealType": ["Side"],
          "dietTags": ["Vegetarian", "Low-Carb"],
@@ -4432,7 +4480,9 @@
          "title": "ITALIAN SAUSAGE, PEPPERS, AND ONIONS",
          "description": "Classic Italian sausage with sautéed peppers and onions.",
          "imageURL": null,
-         "cookTime": 25,
+         "cookTime": {
+             "minutes": 25
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": [],
@@ -4472,7 +4522,9 @@
          "title": "LEMON CHICKEN PICCATA",
          "description": "Chicken breasts in a lemony caper sauce.",
          "imageURL": null,
-         "cookTime": 30,
+         "cookTime": {
+             "minutes": 30
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": ["High-Protein", "Low-Carb"],
@@ -4519,7 +4571,9 @@
          "title": "LINDA'S LASAGNA",
          "description": "Classic lasagna with ground beef and three cheeses.",
          "imageURL": null,
-         "cookTime": 105,
+         "cookTime": {
+             "minutes": 105
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": ["High-Protein"],
@@ -4570,7 +4624,9 @@
          "title": "ANTIPASTO PASTA SALAD",
          "description": "Cold pasta salad with Italian meats and cheeses.",
          "imageURL": null,
-         "cookTime": 15,
+         "cookTime": {
+             "minutes": 15
+         },
          "cuisine": "Italian",
          "mealType": ["Lunch", "Side"],
          "dietTags": [],
@@ -4615,7 +4671,9 @@
          "title": "THE BEST MEATBALLS",
          "description": "Juicy meatballs made with a blend of ground meats.",
          "imageURL": null,
-         "cookTime": 20,
+         "cookTime": {
+             "minutes": 20
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": ["High-Protein"],
@@ -4656,7 +4714,9 @@
          "title": "QUICK CHICKEN PICCATA",
          "description": "Fast version of the classic chicken piccata.",
          "imageURL": null,
-         "cookTime": 15,
+         "cookTime": {
+             "minutes": 15
+         },
          "cuisine": "Italian",
          "mealType": ["Dinner"],
          "dietTags": ["High-Protein", "Low-Carb"],
@@ -4700,7 +4760,9 @@
      "title": "Pesto Pasta with Chicken",
      "description": "A delicious pasta dish with pesto and chicken.",
      "imageURL": null,
-     "cookTime": 30,
+     "cookTime": {
+         "minutes": 30
+     },
      "cuisine": "Italian",
      "mealType": ["Dinner"],
      "dietTags": [],
@@ -4770,7 +4832,9 @@
      "title": "Garlic Butter",
      "description": "Simple garlic butter recipe.",
      "imageURL": null,
-     "cookTime": 10,
+     "cookTime": {
+         "minutes": 10
+     },
      "cuisine": "Italian",
      "mealType": ["Side"],
      "dietTags": [],
@@ -4838,7 +4902,9 @@
      "title": "Tacos in Pasta Shells",
      "description": "A fusion dish combining tacos and pasta.",
      "imageURL": null,
-     "cookTime": 60,
+     "cookTime": {
+         "minutes": 60
+     },
      "cuisine": "Italian",
      "mealType": ["Dinner"],
      "dietTags": [],
@@ -4935,7 +5001,9 @@
      "title": "World's Best Pasta Sauce",
      "description": "A rich and flavorful pasta sauce.",
      "imageURL": null,
-     "cookTime": 90,
+     "cookTime": {
+         "minutes": 90
+     },
      "cuisine": "Italian",
      "mealType": ["Dinner"],
      "dietTags": [],
@@ -5047,7 +5115,9 @@
      "title": "Hearty Vegetable Lasagna",
      "description": "A vegetarian lasagna packed with vegetables.",
      "imageURL": null,
-     "cookTime": 60,
+     "cookTime": {
+         "minutes": 60
+     },
      "cuisine": "Italian",
      "mealType": ["Dinner"],
      "dietTags": ["Vegetarian"],
@@ -5149,7 +5219,9 @@
      "title": "Tuscan Soup",
      "description": "A hearty Italian soup with sausage and vegetables.",
      "imageURL": null,
-     "cookTime": 50,
+     "cookTime": {
+         "minutes": 50
+     },
      "cuisine": "Italian",
      "mealType": ["Dinner"],
      "dietTags": [],
@@ -5226,7 +5298,9 @@
      "title": "Italian Wedding Soup",
      "description": "Traditional Italian soup with meatballs and greens.",
      "imageURL": null,
-     "cookTime": 50,
+     "cookTime": {
+         "minutes": 50
+     },
      "cuisine": "Italian",
      "mealType": ["Dinner"],
      "dietTags": [],
@@ -5313,7 +5387,9 @@
      "title": "Baked Ziti with Sausage",
      "description": "Classic baked pasta dish with Italian sausage.",
      "imageURL": null,
-     "cookTime": 60,
+     "cookTime": {
+         "minutes": 60
+     },
      "cuisine": "Italian",
      "mealType": ["Dinner"],
      "dietTags": [],
@@ -5416,7 +5492,9 @@
      "title": "Pesto",
      "description": "Classic Italian basil pesto sauce.",
      "imageURL": null,
-     "cookTime": 5,
+     "cookTime": {
+         "minutes": 5
+     },
      "cuisine": "Italian",
      "mealType": ["Side"],
      "dietTags": ["Vegetarian"],
@@ -5478,7 +5556,9 @@
      "title": "Manicotti alla Romana",
      "description": "Traditional Roman-style stuffed pasta dish.",
      "imageURL": null,
-     "cookTime": 110,
+     "cookTime": {
+         "minutes": 110
+     },
      "cuisine": "Italian",
      "mealType": ["Dinner"],
      "dietTags": [],

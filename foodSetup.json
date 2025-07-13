@@ -3363,5 +3363,2230 @@
             "carbohydrates": 15.0,
             "protein": 4.0
         }
+    },
+    {
+    "id": "3B4E4F4D-7A2E-4F3D-8C1A-1B2C3D4E5F6A",
+    "title": "Italian Baked Meatballs",
+    "description": "Juicy homemade meatballs with Italian seasoning, baked to perfection.",
+    "imageURL": null,
+    "cookTime": 50,
+    "cuisine": "Italian",
+    "mealType": ["Lunch", "Dinner"],
+    "dietTags": ["High-Protein"],
+    "allergens": ["diary", "eggs"],
+    "ingredients": [
+      {"name": "Italian-seasoned bread crumbs", "quantity": "1", "unit": "cup", "note": null},
+      {"name": "garlic powder", "quantity": "1/2", "unit": "teaspoon", "note": null},
+      {"name": "grated Romano cheese", "quantity": "1/4", "unit": "cup", "note": null},
+      {"name": "onion powder", "quantity": "1/2", "unit": "teaspoon", "note": null},
+      {"name": "fresh parsley", "quantity": "2", "unit": "tablespoons", "note": "chopped"},
+      {"name": "water", "quantity": "1/2", "unit": "cup", "note": null},
+      {"name": "salt", "quantity": "1/2", "unit": "teaspoon", "note": null},
+      {"name": "eggs", "quantity": "2", "unit": "", "note": null},
+      {"name": "ground black pepper", "quantity": "1/2", "unit": "teaspoon", "note": null},
+      {"name": "ground beef", "quantity": "1 1/2", "unit": "pounds", "note": null}
+    ],
+    "steps": [
+      "Preheat the oven to 350 degrees F (175 degrees C).",
+      "Mix bread crumbs, Romano cheese, parsley, salt, pepper, garlic powder, and onion powder together.",
+      "Combine with water and eggs. Add ground beef and mix well.",
+      "Roll mixture into balls and place on a nonstick baking sheet.",
+      "Bake in the preheated oven until browned, about 30 minutes."
+    ],
+    "nutritions": {
+      "calories": 343,
+      "fat": 20.4,
+      "cholesterol": 135,
+      "sodium": null,
+      "carbohydrates": 14.1,
+      "protein": 24.4,
+      "fiber": null,
+      "sugar": null
     }
+  },
+  {
+    "id": "4C5D6E7F-8A9B-1C2D-3E4F-5A6B7C8D9E0F",
+    "title": "Traditional Spaghetti all'Amatriciana",
+    "description": "Classic Italian pasta dish with pancetta and tomato sauce.",
+    "imageURL": null,
+    "cookTime": 30,
+    "cuisine": "Italian",
+    "mealType": ["Lunch", "Dinner"],
+    "dietTags": [],
+    "allergens": ["diary", "gluten"],
+    "ingredients": [
+      {"name": "spaghetti", "quantity": "1", "unit": "pound", "note": null},
+      {"name": "water", "quantity": "1", "unit": "tablespoon", "note": "or more as needed"},
+      {"name": "extra-virgin olive oil", "quantity": "3", "unit": "tablespoons", "note": "divided"},
+      {"name": "white sugar", "quantity": "1/2", "unit": "teaspoon", "note": null},
+      {"name": "onion", "quantity": "1", "unit": "", "note": "finely chopped"},
+      {"name": "Parmesan cheese", "quantity": "2", "unit": "tablespoons", "note": "grated"},
+      {"name": "pancetta bacon", "quantity": "7", "unit": "ounces", "note": "diced"},
+      {"name": "red pepper flakes", "quantity": "1", "unit": "pinch", "note": "or to taste"},
+      {"name": "passata", "quantity": "2", "unit": "cups", "note": "crushed tomatoes"},
+      {"name": "salt and pepper", "quantity": null, "unit": null, "note": "to taste"}
+    ],
+    "steps": [
+      "Bring a large pot of lightly salted water to a boil. Cook spaghetti for about 12 minutes until al dente.",
+      "Meanwhile, heat 2 tablespoons olive oil in a skillet and cook onion until golden (5 minutes).",
+      "Add pancetta and cook until crisp (2-3 minutes).",
+      "Pour in passata, water, and sugar; cook until thickened (10-15 minutes).",
+      "Drain spaghetti and toss with sauce, remaining oil, Parmesan, and red pepper flakes. Season."
+    ],
+    "nutritions": {
+      "calories": 662,
+      "fat": 19.7,
+      "cholesterol": 20,
+      "sodium": null,
+      "carbohydrates": 97.2,
+      "protein": 24,
+      "fiber": null,
+      "sugar": null
+    }
+  },
+  {
+    "id": "5D6E7F8A-9B0C-1D2E-3F4A-5B6C7D8E9F0A",
+    "title": "Hearty Minestrone Soup (Instant Pot)",
+    "description": "Vegetable-packed Italian soup with beef and pasta, made quickly in an Instant Pot.",
+    "imageURL": null,
+    "cookTime": 85,
+    "cuisine": "Italian",
+    "mealType": ["Lunch", "Dinner"],
+    "dietTags": ["Gluten-Free"],
+    "allergens": ["diary"],
+    "ingredients": [
+      {"name": "extra-virgin olive oil", "quantity": "2", "unit": "tablespoons", "note": null},
+      {"name": "ground black pepper", "quantity": "1", "unit": "pinch", "note": "to taste"},
+      {"name": "beef stew meat", "quantity": "1", "unit": "pound", "note": null},
+      {"name": "chicken bone broth", "quantity": "6", "unit": "cups", "note": "such as Kettle and Fire"},
+      {"name": "onion", "quantity": "1", "unit": "large", "note": "diced"},
+      {"name": "no-salt-added diced tomatoes", "quantity": "28", "unit": "ounces", "note": "1 can"},
+      {"name": "celery", "quantity": "2", "unit": "stalks", "note": "diced"},
+      {"name": "crushed tomatoes", "quantity": "14", "unit": "ounces", "note": "1 can"},
+      {"name": "green beans", "quantity": "1/3", "unit": "pound", "note": "trimmed and cut"},
+      {"name": "red kidney beans", "quantity": "15", "unit": "ounces", "note": "drained and rinsed"},
+      {"name": "carrot", "quantity": "1", "unit": "large", "note": "diced"},
+      {"name": "gluten-free ditalini pasta", "quantity": "1", "unit": "cup", "note": null},
+      {"name": "garlic", "quantity": "4", "unit": "cloves", "note": "minced"},
+      {"name": "kosher salt", "quantity": "1", "unit": "pinch", "note": "to taste"},
+      {"name": "dried oregano", "quantity": "1", "unit": "teaspoon", "note": null},
+      {"name": "Parmesan cheese", "quantity": "1/3", "unit": "cup", "note": "finely grated"},
+      {"name": "dried basil", "quantity": "1", "unit": "teaspoon", "note": null}
+    ],
+    "steps": [
+      "Heat oil in Instant Pot on Saute mode. Add beef and onion; cook 4 minutes.",
+      "Add celery, green beans, carrot, garlic, oregano, basil, and pepper. Stir.",
+      "Pour in broth, diced tomatoes, and crushed tomatoes. Select Soup setting.",
+      "Cook on high pressure for 35 minutes (10-15 min pressure build time).",
+      "Quick-release pressure (5 min). Stir in kidney beans and pasta.",
+      "Slow Cook mode for 10 minutes until pasta/vegetables are tender.",
+      "Season with salt. Serve topped with Parmesan and fresh basil."
+    ],
+    "nutritions": {
+      "calories": 369,
+      "fat": 16.8,
+      "cholesterol": 57,
+      "sodium": null,
+      "carbohydrates": 32.1,
+      "protein": 23.4,
+      "fiber": null,
+      "sugar": null
+    }
+  },
+  {
+    "id": "6E7F8A9B-0C1D-2E3F-4A5B-6C7D8E9F0A1B",
+    "title": "Lasagne alla Bolognese Saporite",
+    "description": "Rich Italian lasagna with meat sauce and creamy béchamel.",
+    "imageURL": null,
+    "cookTime": 201,
+    "cuisine": "Italian",
+    "mealType": ["Dinner"],
+    "dietTags": ["High-Protein"],
+    "allergens": ["diary", "gluten", "eggs"],
+    "ingredients": [
+      {"name": "extra-virgin olive oil", "quantity": "2", "unit": "tablespoons", "note": null},
+      {"name": "red wine", "quantity": "6", "unit": "fluid ounces", "note": null},
+      {"name": "onion", "quantity": "1", "unit": "small", "note": "chopped"},
+      {"name": "peeled San Marzano tomatoes", "quantity": "21", "unit": "ounces", "note": null},
+      {"name": "carrot", "quantity": "1", "unit": "", "note": "chopped"},
+      {"name": "butter", "quantity": "6", "unit": "tablespoons", "note": null},
+      {"name": "shallot", "quantity": "1", "unit": "", "note": "minced"},
+      {"name": "all-purpose flour", "quantity": "2/3", "unit": "cup", "note": null},
+      {"name": "prosciutto", "quantity": "3 1/2", "unit": "ounces", "note": "chopped"},
+      {"name": "milk", "quantity": "3 1/4", "unit": "cups", "note": null},
+      {"name": "ground pork", "quantity": "11", "unit": "ounces", "note": null},
+      {"name": "ground nutmeg", "quantity": "1/2", "unit": "teaspoon", "note": null},
+      {"name": "ground beef", "quantity": "11", "unit": "ounces", "note": null},
+      {"name": "salt", "quantity": null, "unit": null, "note": "to taste"},
+      {"name": "ground nutmeg", "quantity": "1", "unit": "teaspoon", "note": null},
+      {"name": "lasagna noodles", "quantity": "11", "unit": "ounces", "note": null},
+      {"name": "ground cinnamon", "quantity": "1/2", "unit": "teaspoon", "note": null},
+      {"name": "grated Parmesan cheese", "quantity": "2 1/2", "unit": "cups", "note": "or to taste"}
+    ],
+    "steps": [
+      "Heat olive oil in saucepan over medium heat; cook onion, carrot, shallot, and prosciutto for 10 minutes.",
+      "Add pork and beef; season with nutmeg, cinnamon, and salt. Cook until browned (10 minutes).",
+      "Pour red wine over meat; cook until evaporated (3 minutes). Add tomatoes and simmer 1.5-2 hours.",
+      "Melt butter in saucepan; add flour. Whisk in milk and cook until thickened (10 minutes). Season.",
+      "Cook lasagna noodles for 8 minutes; drain and pat dry.",
+      "Preheat oven to 350°F (175°C). Layer sauce, noodles, white sauce, and cheese in baking dish.",
+      "Bake for 30-40 minutes until golden brown. Let stand 3-4 minutes before slicing."
+    ],
+    "nutritions": {
+      "calories": 694,
+      "fat": 38,
+      "cholesterol": 113,
+      "sodium": null,
+      "carbohydrates": 48.2,
+      "protein": 35.9,
+      "fiber": null,
+      "sugar": null
+    }
+  },
+  {
+    "id": "7F8A9B0C-1D2E-3F4A-5B6C-7D8E9F0A1B2C",
+    "title": "Chicken Milano",
+    "description": "Creamy sun-dried tomato chicken served over fettuccine.",
+    "imageURL": null,
+    "cookTime": 30,
+    "cuisine": "Italian",
+    "mealType": ["Dinner"],
+    "dietTags": ["High-Protein"],
+    "allergens": ["diary", "gluten"],
+    "ingredients": [
+      {"name": "butter", "quantity": "1", "unit": "tablespoon", "note": null},
+      {"name": "skinless, boneless chicken breast halves", "quantity": "1", "unit": "pound", "note": null},
+      {"name": "garlic", "quantity": "2", "unit": "cloves", "note": "minced"},
+      {"name": "salt and pepper", "quantity": null, "unit": null, "note": "to taste"},
+      {"name": "sun-dried tomatoes", "quantity": "1/2", "unit": "cup", "note": "chopped"},
+      {"name": "vegetable oil", "quantity": "2", "unit": "tablespoons", "note": null},
+      {"name": "chicken broth", "quantity": "1", "unit": "cup", "note": "divided"},
+      {"name": "chopped fresh basil", "quantity": "2", "unit": "tablespoons", "note": null},
+      {"name": "heavy cream", "quantity": "1", "unit": "cup", "note": null},
+      {"name": "dry fettuccini pasta", "quantity": "8", "unit": "ounces", "note": null}
+    ],
+    "steps": [
+      "In saucepan over low heat, melt butter; add garlic and cook 30 seconds.",
+      "Add tomatoes and 3/4 cup broth; bring to boil then simmer 10 minutes.",
+      "Add cream and cook until thickened.",
+      "Season chicken with salt/pepper. Heat oil in skillet and sauté chicken 4 minutes per side.",
+      "In same skillet, bring remaining 1/4 cup broth to boil; add to cream sauce with basil.",
+      "Cook fettuccine 8-10 minutes; drain and toss with 3-4 tbsp sauce.",
+      "Slice chicken and serve over pasta with sauce."
+    ],
+    "nutritions": {
+      "calories": 641,
+      "fat": 34.8,
+      "cholesterol": 156,
+      "sodium": null,
+      "carbohydrates": 47,
+      "protein": 36.3,
+      "fiber": null,
+      "sugar": null
+    }
+  },
+  {
+    "id": "8A9B0C1D-2E3F-4A5B-6C7D-8E9F0A1B2C3D",
+    "title": "Italian Sausage Soup with Tortellini",
+    "description": "Hearty soup with Italian sausage, vegetables, and cheese tortellini.",
+    "imageURL": null,
+    "cookTime": 95,
+    "cuisine": "Italian",
+    "mealType": ["Lunch", "Dinner"],
+    "dietTags": [],
+    "allergens": ["diary", "gluten"],
+    "ingredients": [
+      {"name": "sweet Italian sausage", "quantity": "1", "unit": "pound", "note": "casings removed"},
+      {"name": "thinly sliced carrots", "quantity": "1", "unit": "cup", "note": null},
+      {"name": "chopped onion", "quantity": "1", "unit": "cup", "note": null},
+      {"name": "packed fresh basil leaves", "quantity": "1/2", "unit": "tablespoon", "note": null},
+      {"name": "garlic", "quantity": "2", "unit": "cloves", "note": "minced"},
+      {"name": "dried oregano", "quantity": "1/2", "unit": "teaspoon", "note": null},
+      {"name": "beef broth", "quantity": "5", "unit": "cups", "note": null},
+      {"name": "tomato sauce", "quantity": "1", "unit": "8 ounce can", "note": null},
+      {"name": "water", "quantity": "1/2", "unit": "cup", "note": null},
+      {"name": "sliced zucchini", "quantity": "1 1/2", "unit": "cups", "note": null},
+      {"name": "red wine", "quantity": "1/2", "unit": "cup", "note": null},
+      {"name": "fresh tortellini pasta", "quantity": "8", "unit": "ounces", "note": null},
+      {"name": "tomatoes", "quantity": "4", "unit": "large", "note": "peeled, seeded and chopped"},
+      {"name": "chopped fresh parsley", "quantity": "3", "unit": "tablespoons", "note": null}
+    ],
+    "steps": [
+      "Brown sausage in Dutch oven; drain, reserving 1 tbsp drippings.",
+      "Sauté onions and garlic in drippings.",
+      "Stir in broth, water, wine, tomatoes, carrots, basil, oregano, and tomato sauce. Boil then simmer 30 minutes.",
+      "Skim fat; stir in zucchini and parsley. Simmer covered 30 minutes.",
+      "Add tortellini during last 10 minutes.",
+      "Serve with Parmesan cheese."
+    ],
+    "nutritions": {
+      "calories": 324,
+      "fat": 20.2,
+      "cholesterol": 50,
+      "sodium": null,
+      "carbohydrates": 19.1,
+      "protein": 14.6,
+      "fiber": null,
+      "sugar": null
+    }
+  },
+  {
+    "id": "9B0C1D2E-3F4A-5B6C-7D8E-9F0A1B2C3D4E",
+    "title": "American Lasagna",
+    "description": "Classic layered lasagna with ricotta and mozzarella.",
+    "imageURL": null,
+    "cookTime": 115,
+    "cuisine": "American",
+    "mealType": ["Dinner"],
+    "dietTags": ["High-Protein"],
+    "allergens": ["diary", "gluten", "eggs"],
+    "ingredients": [
+      {"name": "lean ground beef", "quantity": "1 1/2", "unit": "pounds", "note": null},
+      {"name": "dry lasagna noodles", "quantity": "12", "unit": "", "note": null},
+      {"name": "onion", "quantity": "1", "unit": "", "note": "chopped"},
+      {"name": "eggs", "quantity": "2", "unit": "", "note": "beaten"},
+      {"name": "garlic", "quantity": "2", "unit": "cloves", "note": "minced"},
+      {"name": "part-skim ricotta cheese", "quantity": "1", "unit": "pint", "note": null},
+      {"name": "chopped fresh basil", "quantity": "1", "unit": "tablespoon", "note": null},
+      {"name": "grated Parmesan cheese", "quantity": "1/2", "unit": "cup", "note": null},
+      {"name": "dried oregano", "quantity": "1", "unit": "teaspoon", "note": null},
+      {"name": "dried parsley", "quantity": "2", "unit": "tablespoons", "note": null},
+      {"name": "brown sugar", "quantity": "2", "unit": "tablespoons", "note": null},
+      {"name": "salt", "quantity": "1 1/2", "unit": "teaspoons", "note": null},
+      {"name": "diced tomatoes", "quantity": "1", "unit": "29 ounce can", "note": null},
+      {"name": "shredded mozzarella cheese", "quantity": "1", "unit": "pound", "note": null},
+      {"name": "tomato paste", "quantity": "2", "unit": "6 ounce cans", "note": null}
+    ],
+    "steps": [
+      "Brown beef, onion and garlic for 5 minutes; drain fat.",
+      "Mix in basil, oregano, brown sugar, salt, tomatoes and tomato paste. Simmer 30-45 minutes.",
+      "Preheat oven to 375°F (190°C). Cook lasagna noodles 5-8 minutes; drain and blot dry.",
+      "Mix eggs, ricotta, Parmesan, parsley and 1 tsp salt.",
+      "Layer noodles, ricotta mixture, mozzarella and sauce in baking dish.",
+      "Bake 30 minutes. Let stand 10 minutes before serving."
+    ],
+    "nutritions": {
+      "calories": 664,
+      "fat": 29.5,
+      "cholesterol": 168,
+      "sodium": null,
+      "carbohydrates": 48.3,
+      "protein": 50.9,
+      "fiber": null,
+      "sugar": null
+    }
+  },
+  {
+    "id": "A0B1C2D3-E4F5-6A7B-8C9D-0E1F2A3B4C5D",
+    "title": "Slow Cooker Italian Beef for Sandwiches",
+    "description": "Tender shredded beef cooked with Italian seasonings, perfect for sandwiches.",
+    "imageURL": null,
+    "cookTime": 735,
+    "cuisine": "Italian",
+    "mealType": ["Lunch", "Dinner"],
+    "dietTags": ["High-Protein"],
+    "allergens": [],
+    "ingredients": [
+      {"name": "water", "quantity": "3", "unit": "cups", "note": null},
+      {"name": "dried parsley", "quantity": "1", "unit": "teaspoon", "note": null},
+      {"name": "salt", "quantity": "1", "unit": "teaspoon", "note": null},
+      {"name": "garlic powder", "quantity": "1", "unit": "teaspoon", "note": null},
+      {"name": "ground black pepper", "quantity": "1", "unit": "teaspoon", "note": null},
+      {"name": "bay leaf", "quantity": "1", "unit": "", "note": null},
+      {"name": "dried oregano", "quantity": "1", "unit": "teaspoon", "note": null},
+      {"name": "dry Italian-style salad dressing mix", "quantity": "1", "unit": ".7 ounce package", "note": null},
+      {"name": "dried basil", "quantity": "1", "unit": "teaspoon", "note": null},
+      {"name": "rump roast", "quantity": "1", "unit": "5 pound", "note": null},
+      {"name": "onion salt", "quantity": "1", "unit": "teaspoon", "note": null}
+    ],
+    "steps": [
+      "Combine water with all seasonings in saucepan; bring to boil.",
+      "Place roast in slow cooker; pour dressing mixture over meat.",
+      "Cover and cook on Low for 10-12 hours (or High 4-5 hours).",
+      "Remove bay leaf and shred meat with fork."
+    ],
+    "nutritions": {
+      "calories": 318,
+      "fat": 15.8,
+      "cholesterol": 100,
+      "sodium": null,
+      "carbohydrates": 1.6,
+      "protein": 39.4,
+      "fiber": null,
+      "sugar": null
+    }
+  },
+  {
+    "id": "B1C2D3E4-F5A6-7B8C-9D0E-1F2A3B4C5D6E",
+    "title": "Balsamic Roasted Pork Loin",
+    "description": "Juicy pork loin marinated in balsamic vinegar and herbs.",
+    "imageURL": null,
+    "cookTime": 185,
+    "cuisine": "Italian",
+    "mealType": ["Dinner"],
+    "dietTags": ["High-Protein", "Low-Carb"],
+    "allergens": [],
+    "ingredients": [
+      {"name": "steak seasoning rub", "quantity": "2", "unit": "tablespoons", "note": null},
+      {"name": "olive oil", "quantity": "1/2", "unit": "cup", "note": null},
+      {"name": "balsamic vinegar", "quantity": "1/2", "unit": "cup", "note": null},
+      {"name": "boneless pork loin roast", "quantity": "2", "unit": "pounds", "note": null}
+    ],
+    "steps": [
+      "Dissolve steak seasoning in vinegar; stir in olive oil.",
+      "Place pork in resealable bag with marinade; refrigerate 2 hours to overnight.",
+      "Preheat oven to 350°F (175°C).",
+      "Place pork with marinade in baking dish; bake 1 hour until internal temp reaches 145°F (65°C).",
+      "Let rest 10 minutes before slicing."
+    ],
+    "nutritions": {
+      "calories": 299,
+      "fat": 23.4,
+      "cholesterol": 55,
+      "sodium": null,
+      "carbohydrates": 3.1,
+      "protein": 18.3,
+      "fiber": null,
+      "sugar": null
+    }
+  },
+  {
+    "id": "C2D3E4F5-A6B7-8C9D-0E1F-2A3B4C5D6E7F",
+    "title": "Jamie's Minestrone",
+    "description": "Vegetable-packed Italian soup with pasta and beans.",
+    "imageURL": null,
+    "cookTime": 85,
+    "cuisine": "Italian",
+    "mealType": ["Lunch", "Dinner"],
+    "dietTags": ["Vegetarian"],
+    "allergens": ["gluten"],
+    "ingredients": [
+      {"name": "olive oil", "quantity": "3", "unit": "tablespoons", "note": null},
+      {"name": "green beans", "quantity": "1", "unit": "15 ounce can", "note": null},
+      {"name": "garlic", "quantity": "3", "unit": "cloves", "note": "chopped"},
+      {"name": "baby spinach", "quantity": "2", "unit": "cups", "note": "rinsed"},
+      {"name": "onions", "quantity": "2", "unit": "", "note": "chopped"},
+      {"name": "zucchinis", "quantity": "3", "unit": "", "note": "quartered and sliced"},
+      {"name": "chopped celery", "quantity": "2", "unit": "cups", "note": null},
+      {"name": "chopped fresh oregano", "quantity": "1", "unit": "tablespoon", "note": null},
+      {"name": "carrots", "quantity": "5", "unit": "", "note": "sliced"},
+      {"name": "chopped fresh basil", "quantity": "2", "unit": "tablespoons", "note": null},
+      {"name": "chicken broth", "quantity": "2", "unit": "cups", "note": null},
+      {"name": "salt and pepper", "quantity": null, "unit": null, "note": "to taste"},
+      {"name": "water", "quantity": "2", "unit": "cups", "note": null},
+      {"name": "seashell pasta", "quantity": "1/2", "unit": "cup", "note": null},
+      {"name": "tomato sauce", "quantity": "4", "unit": "cups", "note": null},
+      {"name": "grated Parmesan cheese", "quantity": "2", "unit": "tablespoons", "note": "for topping"},
+      {"name": "red wine", "quantity": "1/2", "unit": "cup", "note": "optional"},
+      {"name": "olive oil", "quantity": "1", "unit": "tablespoon", "note": null},
+      {"name": "canned kidney beans", "quantity": "1", "unit": "cup", "note": "drained"}
+    ],
+    "steps": [
+      "Heat oil in stock pot; sauté garlic 2-3 minutes. Add onion; cook 4-5 minutes.",
+      "Add celery and carrots; sauté 1-2 minutes.",
+      "Add broth, water and tomato sauce; bring to boil. Add wine if desired.",
+      "Stir in kidney beans, green beans, spinach, zucchini, oregano, basil, salt and pepper. Simmer 30-40 minutes.",
+      "Cook pasta separately; drain.",
+      "Place 2 tbsp cooked pasta in bowls; ladle soup over top. Sprinkle with Parmesan."
+    ],
+    "nutritions": {
+      "calories": 227,
+      "fat": 8.3,
+      "cholesterol": 1,
+      "sodium": null,
+      "carbohydrates": 30,
+      "protein": 8.6,
+      "fiber": null,
+      "sugar": null
+    }
+  },
+     {
+         "id": "UUID()",
+         "title": "ITALIAN BREADED PORK CHOPS",
+         "description": "A classic Italian dish with breaded and baked pork chops.",
+         "imageURL": null,
+         "cookTime": 60,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": ["High-Protein"],
+         "allergens": ["gluten", "eggs", "diary"],
+         "ingredients": [
+             {"name": "eggs", "quantity": "3", "unit": null, "note": "lightly beaten"},
+             {"name": "milk", "quantity": "3", "unit": "tablespoons", "note": null},
+             {"name": "Italian seasoned bread crumbs", "quantity": "1 1/2", "unit": "cups", "note": null},
+             {"name": "Parmesan cheese", "quantity": "1/2", "unit": "cup", "note": "grated"},
+             {"name": "dried parsley", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "olive oil", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "garlic", "quantity": "4", "unit": "cloves", "note": "peeled and chopped"},
+             {"name": "pork chops", "quantity": "4", "unit": null, "note": null}
+         ],
+         "steps": [
+             "Preheat oven to 325 degrees F (160 degrees C).",
+             "In a small bowl, beat together the eggs and milk.",
+             "In a separate small bowl, mix the bread crumbs, Parmesan cheese, and parsley.",
+             "Heat the olive oil in a large, oven-proof skillet over medium heat.",
+             "Stir in the garlic, and cook until lightly browned.",
+             "Dip each pork chop into the egg mixture, then into the bread crumb mixture, coating evenly.",
+             "Place coated pork chops in the skillet, and brown about 5 minutes on each side.",
+             "Place the skillet and pork chops in the preheated oven, and cook 25 minutes."
+         ],
+         "nutritions": {
+             "calories": 440,
+             "fat": 20.3,
+             "cholesterol": 186,
+             "sodium": null,
+             "carbohydrates": 33.4,
+             "protein": 30,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "UUID()",
+         "title": "SPINACH TOMATO TORTELLINI",
+         "description": "A creamy spinach and tomato tortellini dish.",
+         "imageURL": null,
+         "cookTime": 40,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": ["Vegetarian"],
+         "allergens": ["gluten", "diary"],
+         "ingredients": [
+             {"name": "cheese tortellini", "quantity": "16", "unit": "ounces", "note": null},
+             {"name": "diced tomatoes", "quantity": "14.5", "unit": "ounces", "note": "with garlic and onion"},
+             {"name": "fresh spinach", "quantity": "1", "unit": "cup", "note": "chopped"},
+             {"name": "salt", "quantity": "1/2", "unit": "teaspoon", "note": null},
+             {"name": "pepper", "quantity": "1/4", "unit": "teaspoon", "note": null},
+             {"name": "dried basil", "quantity": "1 1/2", "unit": "teaspoons", "note": null},
+             {"name": "garlic", "quantity": "1", "unit": "teaspoon", "note": "minced"},
+             {"name": "all-purpose flour", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "milk", "quantity": "3/4", "unit": "cup", "note": null},
+             {"name": "heavy cream", "quantity": "3/4", "unit": "cup", "note": null},
+             {"name": "Parmesan cheese", "quantity": "1/4", "unit": "cup", "note": "grated"}
+         ],
+         "steps": [
+             "Bring a large pot of water to a boil.",
+             "Add the tortellini, and cook until tender, about 10 minutes.",
+             "While pasta cooks, combine tomatoes, spinach, salt, pepper, basil and garlic in a large saucepan.",
+             "Cook and stir until the mixture begins to bubble.",
+             "In a medium bowl, whisk together flour, milk and cream.",
+             "Stir into saucepan along with Parmesan cheese.",
+             "Heat through, then reduce heat to low, and simmer until thick, about 2 minutes.",
+             "Drain the tortellini and toss with sauce."
+         ],
+         "nutritions": {
+             "calories": 400,
+             "fat": 19.7,
+             "cholesterol": 79,
+             "sodium": null,
+             "carbohydrates": 43.9,
+             "protein": 14.8,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "UUID()",
+         "title": "PEPPERED SHRIMP ALFREDO",
+         "description": "A creamy Alfredo pasta with shrimp and vegetables.",
+         "imageURL": null,
+         "cookTime": 50,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": ["High-Protein"],
+         "allergens": ["gluten", "diary", "shellfish"],
+         "ingredients": [
+             {"name": "penne pasta", "quantity": "12", "unit": "ounces", "note": null},
+             {"name": "butter", "quantity": "1/4", "unit": "cup", "note": null},
+             {"name": "extra-virgin olive oil", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "onion", "quantity": "1", "unit": null, "note": "diced"},
+             {"name": "garlic", "quantity": "2", "unit": "cloves", "note": "minced"},
+             {"name": "red bell pepper", "quantity": "1", "unit": null, "note": "diced"},
+             {"name": "portobello mushrooms", "quantity": "1/2", "unit": "pound", "note": "diced"},
+             {"name": "shrimp", "quantity": "1", "unit": "pound", "note": "peeled and deveined"},
+             {"name": "Alfredo sauce", "quantity": "15", "unit": "ounces", "note": null},
+             {"name": "Romano cheese", "quantity": "1/2", "unit": "cup", "note": "grated"},
+             {"name": "cream", "quantity": "1/2", "unit": "cup", "note": null},
+             {"name": "cayenne pepper", "quantity": "1", "unit": "teaspoon", "note": "or more to taste"},
+             {"name": "salt", "quantity": null, "unit": null, "note": "to taste"},
+             {"name": "pepper", "quantity": null, "unit": null, "note": "to taste"},
+             {"name": "parsley", "quantity": "1/4", "unit": "cup", "note": "chopped"}
+         ],
+         "steps": [
+             "Bring a large pot of lightly salted water to a boil.",
+             "Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+             "Meanwhile, melt butter together with olive oil in a saucepan over medium heat.",
+             "Stir in onion, and cook until softened and translucent, about 2 minutes.",
+             "Stir in garlic, red pepper, and mushroom; cook over medium-high heat until soft, about 2 minutes more.",
+             "Stir in shrimp, and cook until firm and pink.",
+             "Pour in Alfredo sauce, Romano cheese, and cream; bring to a simmer.",
+             "Season with cayenne, salt, and pepper to taste.",
+             "Stir drained pasta into the sauce, and serve sprinkled with chopped parsley."
+         ],
+         "nutritions": {
+             "calories": 707,
+             "fat": 45,
+             "cholesterol": 201,
+             "sodium": null,
+             "carbohydrates": 50.6,
+             "protein": 28.4,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "UUID()",
+         "title": "BEST MARINARA SAUCE YET",
+         "description": "A flavorful homemade marinara sauce.",
+         "imageURL": null,
+         "cookTime": 45,
+         "cuisine": "Italian",
+         "mealType": ["Side"],
+         "dietTags": ["Vegetarian", "Vegan"],
+         "allergens": [],
+         "ingredients": [
+             {"name": "stewed tomatoes", "quantity": "2", "unit": "14.5 ounce cans", "note": null},
+             {"name": "tomato paste", "quantity": "1", "unit": "6 ounce can", "note": null},
+             {"name": "fresh parsley", "quantity": "4", "unit": "tablespoons", "note": "chopped"},
+             {"name": "garlic", "quantity": "1", "unit": "clove", "note": "minced"},
+             {"name": "dried oregano", "quantity": "1", "unit": "teaspoon", "note": null},
+             {"name": "salt", "quantity": "1", "unit": "teaspoon", "note": null},
+             {"name": "black pepper", "quantity": "1/4", "unit": "teaspoon", "note": "ground"},
+             {"name": "olive oil", "quantity": "6", "unit": "tablespoons", "note": null},
+             {"name": "onion", "quantity": "1/3", "unit": "cup", "note": "finely diced"},
+             {"name": "white wine", "quantity": "1/2", "unit": "cup", "note": null}
+         ],
+         "steps": [
+             "In a food processor place Italian tomatoes, tomato paste, chopped parsley, minced garlic, oregano, salt, and pepper.",
+             "Blend until smooth.",
+             "In a large skillet over medium heat saute the finely chopped onion in olive oil for 2 minutes.",
+             "Add the blended tomato sauce and white wine.",
+             "Simmer for 30 minutes, stirring occasionally."
+         ],
+         "nutritions": {
+             "calories": 151,
+             "fat": 10.5,
+             "cholesterol": 0,
+             "sodium": null,
+             "carbohydrates": 11.7,
+             "protein": 2,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "UUID()",
+         "title": "THE BEST PARMESAN CHICKEN BAKE",
+         "description": "Baked chicken with Parmesan cheese and marinara sauce.",
+         "imageURL": null,
+         "cookTime": 50,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": ["High-Protein"],
+         "allergens": ["gluten", "diary"],
+         "ingredients": [
+             {"name": "olive oil", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "garlic", "quantity": "2", "unit": "cloves", "note": "crushed and finely chopped"},
+             {"name": "crushed red pepper flakes", "quantity": "1/4", "unit": "teaspoon", "note": "or to taste"},
+             {"name": "chicken breast halves", "quantity": "6", "unit": null, "note": "skinless, boneless"},
+             {"name": "marinara sauce", "quantity": "2", "unit": "cups", "note": "prepared"},
+             {"name": "fresh basil", "quantity": "1/4", "unit": "cup", "note": "chopped"},
+             {"name": "mozzarella cheese", "quantity": "8", "unit": "ounces", "note": "shredded, divided"},
+             {"name": "Parmesan cheese", "quantity": "1/2", "unit": "cup", "note": "grated, divided"},
+             {"name": "garlic croutons", "quantity": "1", "unit": "5 ounce package", "note": null}
+         ],
+         "steps": [
+             "Preheat oven to 350 degrees F (175 degrees C).",
+             "Coat the bottom of a 9x13 inch casserole dish with olive oil, and sprinkle with garlic and hot red pepper flakes.",
+             "Arrange the chicken breasts in bottom of the dish, and pour marinara sauce over chicken.",
+             "Sprinkle basil over marinara sauce, and top with half the mozzarella cheese, followed by half the Parmesan cheese.",
+             "Sprinkle on the croutons, then top with the remaining mozzarella cheese and remaining Parmesan cheese.",
+             "Bake in preheated oven until cheese and croutons are golden brown and the chicken is no longer pink inside, about 35 minutes to an hour."
+         ],
+         "nutritions": {
+             "calories": 477,
+             "fat": 21.7,
+             "cholesterol": 100,
+             "sodium": null,
+             "carbohydrates": 28,
+             "protein": 40.3,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "UUID()",
+         "title": "CHEF JOHN'S ITALIAN MEATBALLS",
+         "description": "Classic Italian meatballs with ground beef and pork.",
+         "imageURL": null,
+         "cookTime": 35,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": ["High-Protein"],
+         "allergens": ["gluten", "eggs", "diary"],
+         "ingredients": [
+             {"name": "plain bread crumbs", "quantity": "1/3", "unit": "cup", "note": null},
+             {"name": "milk", "quantity": "1/2", "unit": "cup", "note": null},
+             {"name": "olive oil", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "onion", "quantity": "1", "unit": null, "note": "diced"},
+             {"name": "ground beef", "quantity": "1", "unit": "pound", "note": null},
+             {"name": "ground pork", "quantity": "1", "unit": "pound", "note": null},
+             {"name": "eggs", "quantity": "2", "unit": null, "note": null},
+             {"name": "fresh parsley", "quantity": "1/4", "unit": "bunch", "note": "chopped"},
+             {"name": "garlic", "quantity": "3", "unit": "cloves", "note": "crushed"},
+             {"name": "salt", "quantity": "2", "unit": "teaspoons", "note": null},
+             {"name": "black pepper", "quantity": "1", "unit": "teaspoon", "note": "ground"},
+             {"name": "red pepper flakes", "quantity": "1/2", "unit": "teaspoon", "note": null},
+             {"name": "dried Italian herb seasoning", "quantity": "1", "unit": "teaspoon", "note": null},
+             {"name": "Parmesan cheese", "quantity": "2", "unit": "tablespoons", "note": "grated"}
+         ],
+         "steps": [
+             "Cover a baking sheet with foil and spray lightly with cooking spray.",
+             "Soak bread crumbs in milk in a small bowl for 20 minutes.",
+             "Heat olive oil in a skillet over medium heat.",
+             "Cook and stir onions in hot oil until translucent, about 20 minutes.",
+             "Mix beef and pork together in a large bowl.",
+             "Stir in onions, bread crumb mixture, eggs, parsley, garlic, salt, black pepper, red pepper flakes, Italian herb seasoning, and Parmesan cheese.",
+             "Cover and refrigerate for about one hour.",
+             "Preheat an oven to 425 degrees F (220 degrees C).",
+             "Using wet hands, form meat mixture into balls about 1 1/2 inches in diameter.",
+             "Arrange onto prepared baking sheet.",
+             "Bake in the preheated oven until browned and cooked through, 15 to 20 minutes."
+         ],
+         "nutritions": {
+             "calories": 82,
+             "fat": 5.5,
+             "cholesterol": 32,
+             "sodium": null,
+             "carbohydrates": 1.7,
+             "protein": 6.2,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "UUID()",
+         "title": "PESTO CHICKEN FLORENTINE",
+         "description": "Chicken with pesto sauce and spinach served over pasta.",
+         "imageURL": null,
+         "cookTime": 55,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": ["High-Protein"],
+         "allergens": ["gluten", "diary"],
+         "ingredients": [
+             {"name": "olive oil", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "garlic", "quantity": "2", "unit": "cloves", "note": "finely chopped"},
+             {"name": "chicken breast halves", "quantity": "4", "unit": null, "note": "skinless, boneless, cut into strips"},
+             {"name": "fresh spinach leaves", "quantity": "2", "unit": "cups", "note": null},
+             {"name": "dry Alfredo sauce mix", "quantity": "1", "unit": "4.5 ounce package", "note": null},
+             {"name": "pesto", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "dry penne pasta", "quantity": "1", "unit": "8 ounce package", "note": null},
+             {"name": "Romano cheese", "quantity": "1", "unit": "tablespoon", "note": "grated"}
+         ],
+         "steps": [
+             "Heat oil in a large skillet over medium high heat.",
+             "Add garlic, saute for 1 minute; then add chicken and cook for 7 to 8 minutes on each side.",
+             "When chicken is close to being cooked through, add spinach and saute all together for 3 to 4 minutes.",
+             "Meanwhile, prepare Alfredo sauce according to package directions.",
+             "When finished, stir in 2 tablespoons pesto; set aside.",
+             "In a large pot of salted boiling water, cook pasta for 8 to 10 minutes or until al dente.",
+             "Drain and transfer to a bowl.",
+             "Add chicken/spinach mixture to pasta, then stir in pesto/Alfredo sauce.",
+             "Top with cheese and serve."
+         ],
+         "nutritions": {
+             "calories": 572,
+             "fat": 19.3,
+             "cholesterol": 84,
+             "sodium": null,
+             "carbohydrates": 57.3,
+             "protein": 41.9,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "UUID()",
+         "title": "CHICKEN FETTUCCINI ALFREDO",
+         "description": "Creamy fettuccini Alfredo with chicken.",
+         "imageURL": null,
+         "cookTime": 60,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": ["High-Protein"],
+         "allergens": ["gluten", "diary"],
+         "ingredients": [
+             {"name": "chicken breast halves", "quantity": "6", "unit": null, "note": "skinless, boneless, cubed"},
+             {"name": "butter", "quantity": "6", "unit": "tablespoons", "note": "divided"},
+             {"name": "garlic", "quantity": "4", "unit": "cloves", "note": "minced, divided"},
+             {"name": "fettuccini pasta", "quantity": "1", "unit": "pound", "note": null},
+             {"name": "onion", "quantity": "1", "unit": null, "note": "diced"},
+             {"name": "mushrooms", "quantity": "8", "unit": "ounces", "note": "sliced"},
+             {"name": "roma tomatoes", "quantity": "3", "unit": null, "note": "diced"},
+             {"name": "all-purpose flour", "quantity": "1/3", "unit": "cup", "note": null},
+             {"name": "salt", "quantity": "1", "unit": "tablespoon", "note": null},
+             {"name": "white pepper", "quantity": "3/4", "unit": "teaspoon", "note": "ground"},
+             {"name": "Italian seasoning", "quantity": "1", "unit": "tablespoon", "note": null},
+             {"name": "milk", "quantity": "3", "unit": "cups", "note": null},
+             {"name": "half-and-half", "quantity": "1", "unit": "cup", "note": null},
+             {"name": "Parmesan cheese", "quantity": "3/4", "unit": "cup", "note": "grated"},
+             {"name": "Colby Monterey Jack cheese", "quantity": "8", "unit": "ounces", "note": "shredded"},
+             {"name": "sour cream", "quantity": "1/2", "unit": "cup", "note": null}
+         ],
+         "steps": [
+             "In a large skillet over medium heat combine chicken, 2 tablespoons butter, 2 cloves garlic, and Italian seasoning.",
+             "Cook until chicken is no longer pink inside.",
+             "Bring a large pot of lightly salted water to a boil.",
+             "Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+             "Meanwhile, melt 4 tablespoons butter in the skillet.",
+             "Saute onion, 2 cloves garlic, and mushrooms until onions are transparent.",
+             "Stir in flour, salt and pepper; cook 2 minutes.",
+             "Slowly add milk and half-and-half, stirring until smooth and creamy.",
+             "Stir in Parmesan and Colby-Monterey Jack cheeses; stir until cheese is melted.",
+             "Stir in chicken mixture, tomatoes and sour cream.",
+             "Serve over cooked fettuccini."
+         ],
+         "nutritions": {
+             "calories": 673,
+             "fat": 30.8,
+             "cholesterol": 133,
+             "sodium": null,
+             "carbohydrates": 57,
+             "protein": 43.3,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "UUID()",
+         "title": "TIRAMISU LAYER CAKE",
+         "description": "A delicious coffee-flavored Italian dessert cake.",
+         "imageURL": null,
+         "cookTime": 20,
+         "cuisine": "Italian",
+         "mealType": ["Dessert"],
+         "dietTags": [],
+         "allergens": ["gluten", "eggs", "diary"],
+         "ingredients": [
+             {"name": "moist white cake mix", "quantity": "1", "unit": "18.25 ounce package", "note": null},
+             {"name": "instant coffee powder", "quantity": "1", "unit": "teaspoon", "note": null},
+             {"name": "coffee", "quantity": "1/4", "unit": "cup", "note": null},
+             {"name": "coffee flavored liqueur", "quantity": "1", "unit": "tablespoon", "note": null},
+             {"name": "mascarpone cheese", "quantity": "1", "unit": "8 ounce container", "note": null},
+             {"name": "confectioners' sugar", "quantity": "1/2", "unit": "cup", "note": null},
+             {"name": "coffee flavored liqueur", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "heavy cream", "quantity": "2", "unit": "cups", "note": null},
+             {"name": "confectioners' sugar", "quantity": "1/4", "unit": "cup", "note": null},
+             {"name": "coffee flavored liqueur", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "unsweetened cocoa powder", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "semisweet chocolate", "quantity": "1", "unit": "1 ounce square", "note": null}
+         ],
+         "steps": [
+             "Preheat oven to 350 degrees F (175 degrees C). Grease and flour 3 (9 inch) pans.",
+             "Prepare the cake mix according to package directions.",
+             "Divide two thirds of batter between 2 pans.",
+             "Stir instant coffee into remaining batter; pour into remaining pan.",
+             "Bake in the preheated oven for 20 to 25 minutes.",
+             "Let cool in pan for 10 minutes, then turn out onto a wire rack and cool completely.",
+             "In a measuring cup, combine brewed coffee and 1 tablespoon coffee liqueur; set aside.",
+             "To make the filling: In a small bowl, combine mascarpone, 1/2 cup confectioners' sugar and 2 tablespoons coffee liqueur; beat just until smooth.",
+             "To make the frosting: In a medium bowl, beat the cream, 1/4 cup confectioners' sugar and 2 tablespoons coffee liqueur until stiff.",
+             "Fold 1/2 cup of cream mixture into filling mixture.",
+             "To assemble the cake: Place one plain cake layer on a serving plate.",
+             "Pour one third of reserved coffee mixture over cake, then spread with half of the filling mixture.",
+             "Top with coffee-flavored cake layer; poke holes in cake.",
+             "Pour another third of the coffee mixture over the second layer and spread with the remaining filling.",
+             "Top with remaining cake layer; poke holes in cake.",
+             "Pour remaining coffee mixture on top.",
+             "Spread sides and top of cake with frosting.",
+             "Place cocoa in a sieve and lightly dust top of cake.",
+             "Garnish with chocolate curls.",
+             "Refrigerate at least 30 minutes before serving."
+         ],
+         "nutritions": {
+             "calories": 465,
+             "fat": 28.9,
+             "cholesterol": 78,
+             "sodium": null,
+             "carbohydrates": 46.3,
+             "protein": 4.4,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "UUID()",
+         "title": "ARTICHOKE SPINACH LASAGNA",
+         "description": "A vegetarian lasagna with artichokes and spinach.",
+         "imageURL": null,
+         "cookTime": 80,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": ["Vegetarian"],
+         "allergens": ["gluten", "diary"],
+         "ingredients": [
+             {"name": "cooking spray", "quantity": null, "unit": null, "note": null},
+             {"name": "uncooked lasagna noodles", "quantity": "9", "unit": null, "note": null},
+             {"name": "onion", "quantity": "1", "unit": null, "note": "chopped"},
+             {"name": "garlic", "quantity": "4", "unit": "cloves", "note": "chopped"},
+             {"name": "vegetable broth", "quantity": "1", "unit": "14.5 ounce can", "note": null},
+             {"name": "fresh rosemary", "quantity": "1", "unit": "tablespoon", "note": "chopped"},
+             {"name": "marinated artichoke hearts", "quantity": "1", "unit": "14 ounce can", "note": "drained and chopped"},
+             {"name": "frozen chopped spinach", "quantity": "1", "unit": "10 ounce package", "note": "thawed, drained and squeezed dry"},
+             {"name": "tomato pasta sauce", "quantity": "1", "unit": "28 ounce jar", "note": null},
+             {"name": "mozzarella cheese", "quantity": "3", "unit": "cups", "note": "shredded, divided"},
+             {"name": "herb and garlic feta", "quantity": "1", "unit": "4 ounce package", "note": "crumbled"}
+         ],
+         "steps": [
+             "Preheat oven to 350 degrees F (175 degrees C). Spray a 9x13 inch baking dish with cooking spray.",
+             "Bring a large pot of lightly salted water to a boil.",
+             "Add noodles and cook for 8 to 10 minutes or until al dente; drain.",
+             "Spray a large skillet with cooking spray and heat on medium-high.",
+             "Saute onion and garlic for 3 minutes, or until onion is tender-crisp.",
+             "Stir in broth and rosemary; bring to a boil.",
+             "Stir in artichoke hearts and spinach; reduce heat, cover and simmer 5 minutes.",
+             "Stir in pasta sauce.",
+             "Spread 1/4 of the artichoke mixture in the bottom of the prepared baking dish; top with 3 cooked noodles.",
+             "Sprinkle 3/4 cup mozzarella cheese over noodles.",
+             "Repeat layers 2 more times, ending with artichoke mixture and mozzarella cheese.",
+             "Sprinkle crumbled feta on top.",
+             "Bake, covered, for 40 minutes.",
+             "Uncover, and bake 15 minutes more, or until hot and bubbly.",
+             "Let stand 10 minutes before cutting."
+         ],
+         "nutritions": {
+             "calories": 369,
+             "fat": 16,
+             "cholesterol": 42,
+             "sodium": null,
+             "carbohydrates": 44.5,
+             "protein": 21.1,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "00000000-0000-0000-0000-000000000001",
+         "title": "TIRAMISU LAYER CAKE",
+         "description": "A delicious layered dessert with coffee flavors and mascarpone cheese.",
+         "imageURL": null,
+         "cookTime": 20,
+         "cuisine": "Italian",
+         "mealType": ["Dessert"],
+         "dietTags": [],
+         "allergens": ["diary", "eggs"],
+         "ingredients": [
+             {"name": "moist white cake mix", "quantity": "1", "unit": "(18.25 ounce) package", "note": null},
+             {"name": "instant coffee powder", "quantity": "1", "unit": "teaspoon", "note": null},
+             {"name": "coffee", "quantity": "1/4", "unit": "cup", "note": null},
+             {"name": "coffee flavored liqueur", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "mascarpone cheese", "quantity": "1", "unit": "(8 ounce) container", "note": null},
+             {"name": "confectioners' sugar", "quantity": "1/2", "unit": "cup", "note": null},
+             {"name": "heavy cream", "quantity": "2", "unit": "cups", "note": null},
+             {"name": "unsweetened cocoa powder", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "semisweet chocolate", "quantity": "1", "unit": "(1 ounce) square", "note": null}
+         ],
+         "steps": [
+             "Preheat oven to 350 degrees F (175 degrees C). Grease and flour 3 (9 inch) pans.",
+             "Prepare the cake mix according to package directions. Divide two thirds of batter between 2 pans. Stir instant coffee into remaining batter; pour into remaining pan.",
+             "Bake in the preheated oven for 20 to 25 minutes, or until a toothpick inserted into the center of the cake comes out clean. Let cool in pan for 10 minutes, then turn out onto a wire rack and cool completely.",
+             "In a measuring cup, combine brewed coffee and 1 tablespoon coffee liqueur; set aside.",
+             "To make the filling: In a small bowl, using an electric mixer set on low speed, combine mascarpone, 1/2 cup confectioners' sugar and 2 tablespoons coffee liqueur; beat just until smooth. Cover with plastic wrap and refrigerate.",
+             "To make the frosting: In a medium bowl, using an electric mixer set on medium-high speed, beat the cream, 1/4 cup confectioners' sugar and 2 tablespoons coffee liqueur until stiff.",
+             "To assemble the cake: Place one plain cake layer on a serving plate. Using a thin skewer, poke holes in cake, about 1 inch apart. Pour one third of reserved coffee mixture over cake, then spread with half of the filling mixture.",
+             "Top with coffee-flavored cake layer; poke holes in cake. Pour another third of the coffee mixture over the second layer and spread with the remaining filling.",
+             "Top with remaining cake layer; poke holes in cake. Pour remaining coffee mixture on top.",
+             "Spread sides and top of cake with frosting. Place cocoa in a sieve and lightly dust top of cake.",
+             "Refrigerate at least 30 minutes before serving."
+         ],
+         "nutritions": {
+             "calories": 465,
+             "fat": 28.9,
+             "cholesterol": 78,
+             "sodium": null,
+             "carbohydrates": 46.3,
+             "protein": 4.4,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "00000000-0000-0000-0000-000000000002",
+         "title": "ARTICHOKE SPINACH LASAGNA",
+         "description": "A vegetarian lasagna with artichoke hearts and spinach.",
+         "imageURL": null,
+         "cookTime": 60,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": ["Vegetarian"],
+         "allergens": ["diary", "gluten"],
+         "ingredients": [
+             {"name": "cooking spray", "quantity": null, "unit": null, "note": null},
+             {"name": "uncooked lasagna noodles", "quantity": "9", "unit": null, "note": null},
+             {"name": "onion", "quantity": "1", "unit": null, "note": "chopped"},
+             {"name": "garlic", "quantity": "4", "unit": "cloves", "note": "chopped"},
+             {"name": "marinated artichoke hearts", "quantity": "1", "unit": "(14 ounce) can", "note": "drained and chopped"},
+             {"name": "frozen chopped spinach", "quantity": "1", "unit": "(10 ounce) package", "note": "thawed, drained and squeezed dry"},
+             {"name": "tomato pasta sauce", "quantity": "1", "unit": "(28 ounce) jar", "note": null},
+             {"name": "vegetable broth", "quantity": "1", "unit": "(14.5 ounce) can", "note": null},
+             {"name": "fresh rosemary", "quantity": "1", "unit": "tablespoon", "note": "chopped"},
+             {"name": "shredded mozzarella cheese", "quantity": "3", "unit": "cups", "note": "divided"},
+             {"name": "herb and garlic feta", "quantity": "1", "unit": "(4 ounce) package", "note": "crumbled"}
+         ],
+         "steps": [
+             "Preheat oven to 350 degrees F (175 degrees C). Spray a 9x13 inch baking dish with cooking spray.",
+             "Bring a large pot of lightly salted water to a boil. Add noodles and cook for 8 to 10 minutes or until al dente; drain.",
+             "Spray a large skillet with cooking spray and heat on medium-high. Saute onion and garlic for 3 minutes, or until onion is tender-crisp.",
+             "Stir in broth and rosemary; bring to a boil. Stir in artichoke hearts and spinach; reduce heat, cover and simmer 5 minutes. Stir in pasta sauce.",
+             "Spread 1/4 of the artichoke mixture in the bottom of the prepared baking dish; top with 3 cooked noodles.",
+             "Sprinkle 3/4 cup mozzarella cheese over noodles. Repeat layers 2 more times, ending with artichoke mixture and mozzarella cheese.",
+             "Sprinkle crumbled feta on top.",
+             "Bake, covered, for 40 minutes. Uncover, and bake 15 minutes more, or until hot and bubbly.",
+             "Let stand 10 minutes before cutting."
+         ],
+         "nutritions": {
+             "calories": 369,
+             "fat": 16,
+             "cholesterol": 42,
+             "sodium": null,
+             "carbohydrates": 44.5,
+             "protein": 21.1,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "00000000-0000-0000-0000-000000000003",
+         "title": "CHICKEN PARMIGIANA",
+         "description": "Breaded chicken breasts topped with tomato sauce and cheese.",
+         "imageURL": null,
+         "cookTime": 60,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": ["High-Protein"],
+         "allergens": ["diary", "eggs", "gluten"],
+         "ingredients": [
+             {"name": "egg", "quantity": "1", "unit": null, "note": "beaten"},
+             {"name": "dry bread crumbs", "quantity": "2", "unit": "ounces", "note": null},
+             {"name": "skinless, boneless chicken breast halves", "quantity": "2", "unit": null, "note": null},
+             {"name": "spaghetti sauce", "quantity": "3/4", "unit": "(16 ounce) jar", "note": null},
+             {"name": "shredded mozzarella cheese", "quantity": "2", "unit": "ounces", "note": null},
+             {"name": "grated Parmesan cheese", "quantity": "1/3", "unit": "cup", "note": null}
+         ],
+         "steps": [
+             "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a medium baking sheet.",
+             "Pour egg into a small shallow bowl. Place bread crumbs in a separate shallow bowl.",
+             "Dip chicken into egg, then into the bread crumbs. Place coated chicken on the prepared baking sheet and bake in the preheated oven for 40 minutes, or until no longer pink and juices run clear.",
+             "Pour 1/2 of the spaghetti sauce into a 7x11 inch baking dish. Place chicken over sauce, and cover with remaining sauce.",
+             "Sprinkle mozzarella and Parmesan cheeses on top and return to the preheated oven for 20 minutes."
+         ],
+         "nutritions": {
+             "calories": 528,
+             "fat": 18.3,
+             "cholesterol": 184,
+             "sodium": null,
+             "carbohydrates": 44.9,
+             "protein": 43.5,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "00000000-0000-0000-0000-000000000004",
+         "title": "PAN-FRIED ASPARAGUS",
+         "description": "Simple sautéed asparagus with garlic and olive oil.",
+         "imageURL": null,
+         "cookTime": 15,
+         "cuisine": "Italian",
+         "mealType": ["Side"],
+         "dietTags": ["Vegetarian", "Low-Carb"],
+         "allergens": [],
+         "ingredients": [
+             {"name": "butter", "quantity": "1/4", "unit": "cup", "note": null},
+             {"name": "olive oil", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "coarse salt", "quantity": "1", "unit": "teaspoon", "note": null},
+             {"name": "ground black pepper", "quantity": "1/4", "unit": "teaspoon", "note": null},
+             {"name": "garlic", "quantity": "3", "unit": "cloves", "note": "minced"},
+             {"name": "fresh asparagus spears", "quantity": "1", "unit": "pound", "note": "trimmed"}
+         ],
+         "steps": [
+             "Melt butter in a skillet over medium-high heat.",
+             "Stir in the olive oil, salt, and pepper.",
+             "Cook garlic in butter for a minute, but do not brown.",
+             "Add asparagus, and cook for 10 minutes, turning asparagus to ensure even cooking."
+         ],
+         "nutritions": {
+             "calories": 188,
+             "fat": 18.4,
+             "cholesterol": 31,
+             "sodium": null,
+             "carbohydrates": 5.2,
+             "protein": 2.8,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "00000000-0000-0000-0000-000000000005",
+         "title": "ITALIAN SAUSAGE, PEPPERS, AND ONIONS",
+         "description": "Classic Italian sausage with sautéed peppers and onions.",
+         "imageURL": null,
+         "cookTime": 25,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": [],
+         "allergens": [],
+         "ingredients": [
+             {"name": "sweet Italian sausage", "quantity": "6", "unit": "(4 ounce) links", "note": null},
+             {"name": "butter", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "yellow onion", "quantity": "1", "unit": null, "note": "sliced"},
+             {"name": "red onion", "quantity": "1/2", "unit": null, "note": "sliced"},
+             {"name": "garlic", "quantity": "4", "unit": "cloves", "note": "minced"},
+             {"name": "red bell pepper", "quantity": "1", "unit": "large", "note": "sliced"},
+             {"name": "green bell pepper", "quantity": "1", "unit": null, "note": "sliced"},
+             {"name": "dried basil", "quantity": "1", "unit": "teaspoon", "note": null},
+             {"name": "dried oregano", "quantity": "1", "unit": "teaspoon", "note": null},
+             {"name": "white wine", "quantity": "1/4", "unit": "cup", "note": null}
+         ],
+         "steps": [
+             "Place the sausage in a large skillet over medium heat, and brown on all sides. Remove from skillet, and slice.",
+             "Melt butter in the skillet. Stir in the yellow onion, red onion, and garlic, and cook 2 to 3 minutes.",
+             "Mix in red bell pepper and green bell pepper. Season with basil, and oregano. Stir in white wine.",
+             "Continue to cook and stir until peppers and onions are tender.",
+             "Return sausage slices to skillet with the vegetables. Reduce heat to low, cover, and simmer 15 minutes, or until sausage is heated through."
+         ],
+         "nutritions": {
+             "calories": 461,
+             "fat": 39.4,
+             "cholesterol": 96,
+             "sodium": null,
+             "carbohydrates": 7,
+             "protein": 17.1,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "00000000-0000-0000-0000-000000000006",
+         "title": "LEMON CHICKEN PICCATA",
+         "description": "Chicken breasts in a lemony caper sauce.",
+         "imageURL": null,
+         "cookTime": 30,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": ["High-Protein", "Low-Carb"],
+         "allergens": ["gluten"],
+         "ingredients": [
+             {"name": "skinless, boneless chicken breast halves", "quantity": "3", "unit": "large", "note": "cut into 1/2-inch medallions"},
+             {"name": "salt and pepper", "quantity": null, "unit": null, "note": "to taste"},
+             {"name": "all-purpose flour", "quantity": "1/2", "unit": "cup", "note": null},
+             {"name": "vegetable oil", "quantity": "2", "unit": "tablespoons", "note": "or as needed"},
+             {"name": "garlic", "quantity": "1", "unit": "clove", "note": "minced"},
+             {"name": "low sodium chicken broth", "quantity": "1", "unit": "cup", "note": null},
+             {"name": "lemon", "quantity": "1/2", "unit": null, "note": "thinly sliced"},
+             {"name": "fresh lemon juice", "quantity": "1/4", "unit": "cup", "note": null},
+             {"name": "capers", "quantity": "2", "unit": "tablespoons", "note": "drained and rinsed"},
+             {"name": "butter", "quantity": "3", "unit": "tablespoons", "note": null},
+             {"name": "Italian parsley", "quantity": "2", "unit": "tablespoons", "note": "minced"}
+         ],
+         "steps": [
+             "Preheat oven to 200 degrees F (95 degrees C). Place a serving platter into the oven to warm.",
+             "Season the chicken breast pieces with salt and pepper and dredge them in flour. Shake off excess flour.",
+             "Heat the vegetable oil in a skillet; pan-fry the chicken pieces until golden brown on both sides, about 3 minutes per side.",
+             "Place the chicken pieces onto the warmed platter in the oven.",
+             "In the skillet, cook and stir the minced garlic until fragrant, about 20 seconds.",
+             "Pour in the chicken broth. Scrape and dissolve any brown bits from the bottom of the skillet.",
+             "Stir in the lemon slices and bring the mixture to a boil. Let cook until the sauce reduces to about 2/3 cup, 5 to 8 minutes.",
+             "Add the lemon juice and capers; simmer until the sauce is reduced and slightly thickened, about 5 minutes more.",
+             "Drop the butter into the skillet and swirl it into the sauce by tilting the skillet until the butter is melted and incorporated.",
+             "Add the parsley; remove from heat and set aside.",
+             "Arrange the chicken medallions on serving plates and spoon sauce over each portion to serve."
+         ],
+         "nutritions": {
+             "calories": 421,
+             "fat": 21.2,
+             "cholesterol": 128,
+             "sodium": null,
+             "carbohydrates": 16.1,
+             "protein": 41.1,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "00000000-0000-0000-0000-000000000007",
+         "title": "LINDA'S LASAGNA",
+         "description": "Classic lasagna with ground beef and three cheeses.",
+         "imageURL": null,
+         "cookTime": 105,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": ["High-Protein"],
+         "allergens": ["diary", "eggs", "gluten"],
+         "ingredients": [
+             {"name": "lean ground beef", "quantity": "1", "unit": "pound", "note": null},
+             {"name": "onion", "quantity": "1", "unit": null, "note": "chopped"},
+             {"name": "tomato paste", "quantity": "2", "unit": "(6 ounce) cans", "note": null},
+             {"name": "crushed tomatoes", "quantity": "1", "unit": "(14.5 ounce) can", "note": null},
+             {"name": "water", "quantity": "2", "unit": "cups", "note": null},
+             {"name": "dried oregano", "quantity": "1", "unit": "tablespoon", "note": null},
+             {"name": "garlic powder", "quantity": "2", "unit": "teaspoons", "note": null},
+             {"name": "salt", "quantity": "2", "unit": "teaspoons", "note": null},
+             {"name": "ground black pepper", "quantity": "1/4", "unit": "teaspoon", "note": null},
+             {"name": "white sugar", "quantity": "1", "unit": "tablespoon", "note": null},
+             {"name": "cottage cheese", "quantity": "12", "unit": "ounces", "note": null},
+             {"name": "grated Parmesan cheese", "quantity": "1/2", "unit": "cup", "note": null},
+             {"name": "egg", "quantity": "1", "unit": null, "note": null},
+             {"name": "lasagna noodles", "quantity": "9", "unit": null, "note": null},
+             {"name": "shredded mozzarella cheese", "quantity": "1", "unit": "pound", "note": null}
+         ],
+         "steps": [
+             "In a large skillet over medium heat, cook beef until brown. Drain.",
+             "In another skillet over medium heat, cook onion until translucent. Combine beef and onion in a large saucepan with tomato paste, crushed tomatoes, water, oregano, garlic powder, salt, pepper and sugar.",
+             "Cook over medium heat until mixture comes to a boil. Reduce heat to low and simmer 1 hour.",
+             "While sauce is simmering, blend cottage cheese, Parmesan and egg until smooth. Set aside.",
+             "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+             "Preheat oven to 350 degrees F (175 degrees C).",
+             "Spread 1 cup of sauce in the bottom of a 9x13 inch baking dish. Cover sauce with 3 noodles.",
+             "Cover noodles with one-third of remaining sauce. Top with half the mozzarella.",
+             "Place another layer of noodles and one of sauce over the mozzarella; top that with the cottage cheese mixture.",
+             "Top with remaining 3 noodles and remaining sauce.",
+             "Bake in preheated oven 30 minutes. Sprinkle remaining mozzarella on top and bake 15 minutes more, until golden and bubbly."
+         ],
+         "nutritions": {
+             "calories": 494,
+             "fat": 21.8,
+             "cholesterol": 104,
+             "sodium": null,
+             "carbohydrates": 38.2,
+             "protein": 38.2,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "00000000-0000-0000-0000-000000000008",
+         "title": "ANTIPASTO PASTA SALAD",
+         "description": "Cold pasta salad with Italian meats and cheeses.",
+         "imageURL": null,
+         "cookTime": 15,
+         "cuisine": "Italian",
+         "mealType": ["Lunch", "Side"],
+         "dietTags": [],
+         "allergens": ["diary", "gluten"],
+         "ingredients": [
+             {"name": "seashell pasta", "quantity": "1", "unit": "pound", "note": null},
+             {"name": "Genoa salami", "quantity": "1/4", "unit": "pound", "note": "chopped"},
+             {"name": "pepperoni sausage", "quantity": "1/4", "unit": "pound", "note": "chopped"},
+             {"name": "Asiago cheese", "quantity": "1/2", "unit": "pound", "note": "diced"},
+             {"name": "black olives", "quantity": "1", "unit": "(6 ounce) can", "note": "drained and chopped"},
+             {"name": "red bell pepper", "quantity": "1", "unit": null, "note": "diced"},
+             {"name": "green bell pepper", "quantity": "1", "unit": null, "note": "chopped"},
+             {"name": "tomatoes", "quantity": "3", "unit": null, "note": "chopped"},
+             {"name": "dry Italian-style salad dressing mix", "quantity": "1", "unit": "(.7 ounce) package", "note": null},
+             {"name": "extra virgin olive oil", "quantity": "3/4", "unit": "cup", "note": null},
+             {"name": "balsamic vinegar", "quantity": "1/4", "unit": "cup", "note": null},
+             {"name": "dried oregano", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "dried parsley", "quantity": "1", "unit": "tablespoon", "note": null},
+             {"name": "Parmesan cheese", "quantity": "1", "unit": "tablespoon", "note": "grated"},
+             {"name": "salt and ground black pepper", "quantity": null, "unit": null, "note": "to taste"}
+         ],
+         "steps": [
+             "Cook the pasta in a large pot of salted boiling water until al dente. Drain, and cool under cold water.",
+             "In a large bowl, combine the pasta, salami, pepperoni, Asiago cheese, black olives, red bell pepper, green bell pepper and tomatoes.",
+             "Stir in the envelope of dressing mix. Cover, and refrigerate for at least one hour.",
+             "To prepare the dressing, whisk together the olive oil, balsamic vinegar, oregano, parsley, Parmesan cheese, salt and pepper.",
+             "Just before serving, pour dressing over the salad, and mix well."
+         ],
+         "nutritions": {
+             "calories": 451,
+             "fat": 29.1,
+             "cholesterol": 37,
+             "sodium": null,
+             "carbohydrates": 33.2,
+             "protein": 15,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "00000000-0000-0000-0000-000000000009",
+         "title": "THE BEST MEATBALLS",
+         "description": "Juicy meatballs made with a blend of ground meats.",
+         "imageURL": null,
+         "cookTime": 20,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": ["High-Protein"],
+         "allergens": ["eggs", "gluten"],
+         "ingredients": [
+             {"name": "ground beef", "quantity": "1", "unit": "pound", "note": null},
+             {"name": "ground veal", "quantity": "1/2", "unit": "pound", "note": null},
+             {"name": "ground pork", "quantity": "1/2", "unit": "pound", "note": null},
+             {"name": "garlic", "quantity": "2", "unit": "cloves", "note": "minced"},
+             {"name": "eggs", "quantity": "2", "unit": null, "note": null},
+             {"name": "freshly grated Romano cheese", "quantity": "1", "unit": "cup", "note": null},
+             {"name": "Italian flat leaf parsley", "quantity": "1 1/2", "unit": "tablespoons", "note": "chopped"},
+             {"name": "salt and ground black pepper", "quantity": null, "unit": null, "note": "to taste"},
+             {"name": "stale Italian bread", "quantity": "2", "unit": "cups", "note": "crumbled"},
+             {"name": "lukewarm water", "quantity": "1 1/2", "unit": "cups", "note": null},
+             {"name": "olive oil", "quantity": "1", "unit": "cup", "note": null}
+         ],
+         "steps": [
+             "Combine beef, veal, and pork in a large bowl. Add garlic, eggs, cheese, parsley, salt and pepper.",
+             "Blend bread crumbs into meat mixture. Slowly add the water 1/2 cup at a time. The mixture should be very moist but still hold its shape if rolled into meatballs.",
+             "Shape into meatballs.",
+             "Heat olive oil in a large skillet. Fry meatballs in batches.",
+             "When the meatball is very brown and slightly crisp remove from the heat and drain on a paper towel."
+         ],
+         "nutritions": {
+             "calories": 613,
+             "fat": 53.2,
+             "cholesterol": 149,
+             "sodium": null,
+             "carbohydrates": 6.6,
+             "protein": 26.6,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+     {
+         "id": "00000000-0000-0000-0000-000000000010",
+         "title": "QUICK CHICKEN PICCATA",
+         "description": "Fast version of the classic chicken piccata.",
+         "imageURL": null,
+         "cookTime": 15,
+         "cuisine": "Italian",
+         "mealType": ["Dinner"],
+         "dietTags": ["High-Protein", "Low-Carb"],
+         "allergens": ["gluten"],
+         "ingredients": [
+             {"name": "skinless, boneless chicken breast halves", "quantity": "4", "unit": null, "note": null},
+             {"name": "cayenne pepper", "quantity": null, "unit": null, "note": "or to taste"},
+             {"name": "salt and ground black pepper", "quantity": null, "unit": null, "note": "to taste"},
+             {"name": "all-purpose flour", "quantity": null, "unit": null, "note": "for dredging"},
+             {"name": "olive oil", "quantity": "2", "unit": "tablespoons", "note": null},
+             {"name": "capers", "quantity": "1", "unit": "tablespoon", "note": "drained"},
+             {"name": "white wine", "quantity": "1/2", "unit": "cup", "note": null},
+             {"name": "fresh lemon juice", "quantity": "1/4", "unit": "cup", "note": null},
+             {"name": "water", "quantity": "1/4", "unit": "cup", "note": null},
+             {"name": "unsalted butter", "quantity": "3", "unit": "tablespoons", "note": "cut in 1/4-inch slices"},
+             {"name": "fresh Italian parsley", "quantity": "2", "unit": "tablespoons", "note": "chopped"}
+         ],
+         "steps": [
+             "Place chicken breasts between 2 layers of plastic wrap and pound to about 1/2-inch thick.",
+             "Season both sides of chicken breasts with cayenne, salt, and black pepper; dredge lightly in flour and shake off any excess.",
+             "Heat olive oil in a skillet over medium-high heat. Place chicken in the pan, reduce heat to medium, and cook until browned and cooked through, about 5 minutes per side; remove to a plate.",
+             "Cook capers in reserved oil, smashing them lightly to release brine, until warmed though, about 30 seconds.",
+             "Pour white wine into skillet. Scrape any browned bits from the bottom of the pan with a wooden spoon. Cook until reduced by half, about 2 minutes.",
+             "Stir lemon juice, water, and butter into the reduced wine mixture; cook and stir continuously to form a thick sauce, about 2 minutes.",
+             "Return chicken breasts to the pan cook until heated through, 1 to 2 minutes. Serve with sauce spooned over the top."
+         ],
+         "nutritions": {
+             "calories": 321,
+             "fat": 18.2,
+             "cholesterol": 87,
+             "sodium": null,
+             "carbohydrates": 8.4,
+             "protein": 24.7,
+             "fiber": null,
+             "sugar": null
+         }
+     },
+
+   {
+     "id": "UUID-31",
+     "title": "Pesto Pasta with Chicken",
+     "description": "A delicious pasta dish with pesto and chicken.",
+     "imageURL": null,
+     "cookTime": 30,
+     "cuisine": "Italian",
+     "mealType": ["Dinner"],
+     "dietTags": [],
+     "allergens": ["gluten", "diary"],
+     "ingredients": [
+       {
+         "name": "bow tie pasta",
+         "quantity": "16",
+         "unit": "ounce",
+         "note": null
+       },
+       {
+         "name": "olive oil",
+         "quantity": "1",
+         "unit": "teaspoon",
+         "note": null
+       },
+       {
+         "name": "garlic",
+         "quantity": "2",
+         "unit": "cloves",
+         "note": "minced"
+       },
+       {
+         "name": "chicken breasts",
+         "quantity": "2",
+         "unit": null,
+         "note": "boneless skinless, cut into bite-size pieces"
+       },
+       {
+         "name": "red pepper flakes",
+         "quantity": null,
+         "unit": null,
+         "note": "to taste"
+       },
+       {
+         "name": "sun-dried tomatoes",
+         "quantity": "1/3",
+         "unit": "cup",
+         "note": "oil-packed, drained and cut into strips"
+       },
+       {
+         "name": "pesto sauce",
+         "quantity": "1/2",
+         "unit": "cup",
+         "note": null
+       }
+     ],
+     "steps": [
+       "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+       "Heat oil in a large skillet over medium heat. Saute garlic until tender, then stir in chicken. Season with red pepper flakes. Cook until chicken is golden, and cooked through.",
+       "In a large bowl, combine pasta, chicken, sun-dried tomatoes and pesto. Toss to coat evenly."
+     ],
+     "nutritions": {
+       "calories": 328,
+       "fat": 10.1,
+       "cholesterol": 22,
+       "sodium": null,
+       "carbohydrates": 43.3,
+       "protein": 17.4,
+       "fiber": null,
+       "sugar": null
+     }
+   },
+   {
+     "id": "UUID-32",
+     "title": "Garlic Butter",
+     "description": "Simple garlic butter recipe.",
+     "imageURL": null,
+     "cookTime": 10,
+     "cuisine": "Italian",
+     "mealType": ["Side"],
+     "dietTags": [],
+     "allergens": ["diary"],
+     "ingredients": [
+       {
+         "name": "butter",
+         "quantity": "1",
+         "unit": "cup",
+         "note": "softened"
+       },
+       {
+         "name": "garlic",
+         "quantity": "1",
+         "unit": "tablespoon",
+         "note": "minced"
+       },
+       {
+         "name": "Parmesan cheese",
+         "quantity": "1/4",
+         "unit": "cup",
+         "note": "grated"
+       },
+       {
+         "name": "garlic salt",
+         "quantity": "1",
+         "unit": "tablespoon",
+         "note": null
+       },
+       {
+         "name": "Italian seasoning",
+         "quantity": "1",
+         "unit": "teaspoon",
+         "note": null
+       },
+       {
+         "name": "pepper",
+         "quantity": "1/2",
+         "unit": "teaspoon",
+         "note": "ground black"
+       },
+       {
+         "name": "paprika",
+         "quantity": "1/4",
+         "unit": "teaspoon",
+         "note": "ground"
+       }
+     ],
+     "steps": [
+       "In a small bowl, combine softened butter, minced garlic and parmesan cheese. Season with garlic salt, Italian seasoning, pepper and paprika. Mix until smooth."
+     ],
+     "nutritions": {
+       "calories": 110,
+       "fat": 12,
+       "cholesterol": 32,
+       "sodium": null,
+       "carbohydrates": 0.5,
+       "protein": 0.8,
+       "fiber": null,
+       "sugar": null
+     }
+   },
+   {
+     "id": "UUID-33",
+     "title": "Tacos in Pasta Shells",
+     "description": "A fusion dish combining tacos and pasta.",
+     "imageURL": null,
+     "cookTime": 60,
+     "cuisine": "Italian",
+     "mealType": ["Dinner"],
+     "dietTags": [],
+     "allergens": ["gluten", "diary"],
+     "ingredients": [
+       {
+         "name": "ground beef",
+         "quantity": "1 1/4",
+         "unit": "pounds",
+         "note": "lean"
+       },
+       {
+         "name": "cream cheese",
+         "quantity": "1",
+         "unit": "3 ounce package",
+         "note": null
+       },
+       {
+         "name": "salt",
+         "quantity": "1",
+         "unit": "teaspoon",
+         "note": null
+       },
+       {
+         "name": "chili powder",
+         "quantity": "1",
+         "unit": "teaspoon",
+         "note": null
+       },
+       {
+         "name": "taco sauce",
+         "quantity": "1",
+         "unit": "cup",
+         "note": null
+       },
+       {
+         "name": "Cheddar cheese",
+         "quantity": "1",
+         "unit": "cup",
+         "note": "shredded"
+       },
+       {
+         "name": "Monterey Jack cheese",
+         "quantity": "1",
+         "unit": "cup",
+         "note": "shredded"
+       },
+       {
+         "name": "tortilla chips",
+         "quantity": "1 1/2",
+         "unit": "cups",
+         "note": "crushed"
+       },
+       {
+         "name": "jumbo pasta shells",
+         "quantity": "18",
+         "unit": null,
+         "note": null
+       },
+       {
+         "name": "sour cream",
+         "quantity": "1",
+         "unit": "cup",
+         "note": null
+       },
+       {
+         "name": "butter",
+         "quantity": "2",
+         "unit": "tablespoons",
+         "note": "melted"
+       }
+     ],
+     "steps": [
+       "In a large skillet, brown beef over medium heat until no longer pink; drain. Add cream cheese, salt and chili powder; mix and simmer for 5 minutes.",
+       "Meanwhile, bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain. Toss cooked shells in butter.",
+       "Preheat oven to 350 degrees F (175 degrees C).",
+       "Fill shells with beef mixture and arrange in a 9x13 inch baking dish; pour taco sauce over shells. Cover with foil and bake in preheated oven for 15 minutes.",
+       "Remove dish from oven and top with Cheddar cheese, Monterey Jack cheese and tortilla chips; return dish to oven to cook for 15 minutes more.",
+       "Top with sour cream and onions; serve."
+     ],
+     "nutritions": {
+       "calories": 735,
+       "fat": 44.2,
+       "cholesterol": 136,
+       "sodium": null,
+       "carbohydrates": 47.6,
+       "protein": 33.7,
+       "fiber": null,
+       "sugar": null
+     }
+   },
+   {
+     "id": "UUID-34",
+     "title": "World's Best Pasta Sauce",
+     "description": "A rich and flavorful pasta sauce.",
+     "imageURL": null,
+     "cookTime": 90,
+     "cuisine": "Italian",
+     "mealType": ["Dinner"],
+     "dietTags": [],
+     "allergens": [],
+     "ingredients": [
+       {
+         "name": "Italian sausage",
+         "quantity": "1",
+         "unit": "pound",
+         "note": "sweet, sliced"
+       },
+       {
+         "name": "ground beef",
+         "quantity": "3/4",
+         "unit": "pound",
+         "note": "lean"
+       },
+       {
+         "name": "onion",
+         "quantity": "1/2",
+         "unit": "cup",
+         "note": "minced"
+       },
+       {
+         "name": "garlic",
+         "quantity": "2",
+         "unit": "cloves",
+         "note": "crushed"
+       },
+       {
+         "name": "crushed tomatoes",
+         "quantity": "1",
+         "unit": "28 ounce can",
+         "note": null
+       },
+       {
+         "name": "tomato paste",
+         "quantity": "2",
+         "unit": "6 ounce cans",
+         "note": null
+       },
+       {
+         "name": "tomato sauce",
+         "quantity": "2",
+         "unit": "6.5 ounce cans",
+         "note": null
+       },
+       {
+         "name": "water",
+         "quantity": "1/2",
+         "unit": "cup",
+         "note": null
+       },
+       {
+         "name": "sugar",
+         "quantity": "2",
+         "unit": "tablespoons",
+         "note": "white"
+       },
+       {
+         "name": "basil",
+         "quantity": "1 1/2",
+         "unit": "teaspoons",
+         "note": "dried"
+       },
+       {
+         "name": "fennel seed",
+         "quantity": "1/2",
+         "unit": "teaspoon",
+         "note": "dried"
+       },
+       {
+         "name": "Italian seasoning",
+         "quantity": "1",
+         "unit": "teaspoon",
+         "note": null
+       },
+       {
+         "name": "salt",
+         "quantity": "1/2",
+         "unit": "teaspoon",
+         "note": null
+       },
+       {
+         "name": "pepper",
+         "quantity": "1/4",
+         "unit": "teaspoon",
+         "note": "ground black"
+       }
+     ],
+     "steps": [
+       "In a large pot or Dutch oven over medium heat, cook the sausage, beef, onion, and garlic until well browned; drain fat.",
+       "Stir in crushed tomatoes, tomato paste, tomato sauce, and water. Mix in sugar and season with basil, fennel seed, Italian seasoning, salt, and pepper.",
+       "Reduce heat to low, cover, and simmer 1 1/2 hours, stirring occasionally."
+     ],
+     "nutritions": {
+       "calories": 157,
+       "fat": 8.6,
+       "cholesterol": 24,
+       "sodium": null,
+       "carbohydrates": 11.9,
+       "protein": 9.6,
+       "fiber": null,
+       "sugar": null
+     }
+   },
+   {
+     "id": "UUID-35",
+     "title": "Hearty Vegetable Lasagna",
+     "description": "A vegetarian lasagna packed with vegetables.",
+     "imageURL": null,
+     "cookTime": 60,
+     "cuisine": "Italian",
+     "mealType": ["Dinner"],
+     "dietTags": ["Vegetarian"],
+     "allergens": ["gluten", "diary"],
+     "ingredients": [
+       {
+         "name": "lasagna noodles",
+         "quantity": "16",
+         "unit": "ounce",
+         "note": null
+       },
+       {
+         "name": "mushrooms",
+         "quantity": "1",
+         "unit": "pound",
+         "note": "fresh, sliced"
+       },
+       {
+         "name": "green bell pepper",
+         "quantity": "3/4",
+         "unit": "cup",
+         "note": "chopped"
+       },
+       {
+         "name": "onion",
+         "quantity": "3/4",
+         "unit": "cup",
+         "note": "chopped"
+       },
+       {
+         "name": "garlic",
+         "quantity": "3",
+         "unit": "cloves",
+         "note": "minced"
+       },
+       {
+         "name": "vegetable oil",
+         "quantity": "2",
+         "unit": "tablespoons",
+         "note": null
+       },
+       {
+         "name": "pasta sauce",
+         "quantity": "2",
+         "unit": "26 ounce jars",
+         "note": null
+       },
+       {
+         "name": "basil",
+         "quantity": "1",
+         "unit": "teaspoon",
+         "note": "dried"
+       },
+       {
+         "name": "ricotta cheese",
+         "quantity": "1",
+         "unit": "15 ounce container",
+         "note": "part-skim"
+       },
+       {
+         "name": "mozzarella cheese",
+         "quantity": "4",
+         "unit": "cups",
+         "note": "shredded"
+       },
+       {
+         "name": "eggs",
+         "quantity": "2",
+         "unit": null,
+         "note": null
+       },
+       {
+         "name": "Parmesan cheese",
+         "quantity": "1/2",
+         "unit": "cup",
+         "note": "grated"
+       }
+     ],
+     "steps": [
+       "Cook the lasagna noodles in a large pot of boiling water for 10 minutes, or until al dente. Rinse with cold water, and drain.",
+       "In a large saucepan, cook and stir mushrooms, green peppers, onion, and garlic in oil. Stir in pasta sauce and basil; bring to a boil. Reduce heat, and simmer 15 minutes.",
+       "Mix together ricotta, 2 cups mozzarella cheese, and eggs.",
+       "Preheat oven to 350 degrees F (175 degrees C). Spread 1 cup tomato sauce into the bottom of a greased 9x13 inch baking dish. Layer 1/2 each, lasagna noodles, ricotta mix, sauce, and Parmesan cheese. Repeat layering, and top with remaining 2 cups mozzarella cheese.",
+       "Bake, uncovered, for 40 minutes. Let stand 15 minutes before serving."
+     ],
+     "nutritions": {
+       "calories": 462,
+       "fat": 19.5,
+       "cholesterol": 77,
+       "sodium": null,
+       "carbohydrates": 49.6,
+       "protein": 23.2,
+       "fiber": null,
+       "sugar": null
+     }
+   },
+   {
+     "id": "UUID-36",
+     "title": "Tuscan Soup",
+     "description": "A hearty Italian soup with sausage and vegetables.",
+     "imageURL": null,
+     "cookTime": 50,
+     "cuisine": "Italian",
+     "mealType": ["Dinner"],
+     "dietTags": [],
+     "allergens": [],
+     "ingredients": [
+       {
+         "name": "chicken broth",
+         "quantity": "6",
+         "unit": "cups",
+         "note": null
+       },
+       {
+         "name": "onion",
+         "quantity": "1",
+         "unit": null,
+         "note": "chopped"
+       },
+       {
+         "name": "Italian sausage",
+         "quantity": "3",
+         "unit": "3.5 ounce links",
+         "note": "spicy"
+       },
+       {
+         "name": "potatoes",
+         "quantity": "3",
+         "unit": "large",
+         "note": "cubed"
+       },
+       {
+         "name": "spinach",
+         "quantity": "1",
+         "unit": "bunch",
+         "note": "fresh, washed and chopped"
+       },
+       {
+         "name": "evaporated milk",
+         "quantity": "1/4",
+         "unit": "cup",
+         "note": null
+       },
+       {
+         "name": "salt",
+         "quantity": null,
+         "unit": null,
+         "note": "to taste"
+       },
+       {
+         "name": "pepper",
+         "quantity": null,
+         "unit": null,
+         "note": "ground black, to taste"
+       }
+     ],
+     "steps": [
+       "Remove skin from sausage and crumble into frying pan. Add chopped onion, and cook over medium heat until meat is no longer pink. If you are trying to cut fat, remove meat from pan, place in a colander, and rinse under cold water.",
+       "Place meat in a large pot; add stock and potatoes. Boil until potato is cooked.",
+       "Add spinach. Continue boiling until spinach is lightly cooked.",
+       "Remove soup from heat, stir in evaporated milk, and season to taste. Do not add any salt if using canned stock."
+     ],
+     "nutritions": {
+       "calories": 558,
+       "fat": 25.2,
+       "cholesterol": 56,
+       "sodium": null,
+       "carbohydrates": 57.4,
+       "protein": 26.4,
+       "fiber": null,
+       "sugar": null
+     }
+   },
+   {
+     "id": "UUID-37",
+     "title": "Italian Wedding Soup",
+     "description": "Traditional Italian soup with meatballs and greens.",
+     "imageURL": null,
+     "cookTime": 50,
+     "cuisine": "Italian",
+     "mealType": ["Dinner"],
+     "dietTags": [],
+     "allergens": ["gluten"],
+     "ingredients": [
+       {
+         "name": "ground beef",
+         "quantity": "1/2",
+         "unit": "pound",
+         "note": "extra-lean"
+       },
+       {
+         "name": "egg",
+         "quantity": "1",
+         "unit": null,
+         "note": "lightly beaten"
+       },
+       {
+         "name": "bread crumbs",
+         "quantity": "2",
+         "unit": "tablespoons",
+         "note": "dry"
+       },
+       {
+         "name": "Parmesan cheese",
+         "quantity": "1",
+         "unit": "tablespoon",
+         "note": "grated"
+       },
+       {
+         "name": "basil",
+         "quantity": "1/2",
+         "unit": "teaspoon",
+         "note": "dried"
+       },
+       {
+         "name": "onion powder",
+         "quantity": "1/2",
+         "unit": "teaspoon",
+         "note": null
+       },
+       {
+         "name": "chicken broth",
+         "quantity": "5 3/4",
+         "unit": "cups",
+         "note": null
+       },
+       {
+         "name": "escarole",
+         "quantity": "2",
+         "unit": "cups",
+         "note": "thinly sliced"
+       },
+       {
+         "name": "orzo pasta",
+         "quantity": "1",
+         "unit": "cup",
+         "note": "uncooked"
+       },
+       {
+         "name": "carrot",
+         "quantity": "1/3",
+         "unit": "cup",
+         "note": "finely chopped"
+       }
+     ],
+     "steps": [
+       "In medium bowl, combine meat, egg, bread crumbs, cheese, basil and onion powder; shape into 3/4 inch balls.",
+       "In large saucepan, heat broth to boiling; stir in escarole, orzo pasta, chopped carrot and meatballs. Return to boil, then reduce heat to medium. Cook at slow boil for 10 minutes, or until pasta is al dente. Stir frequently to prevent sticking."
+     ],
+     "nutritions": {
+       "calories": 416,
+       "fat": 14.2,
+       "cholesterol": 87,
+       "sodium": null,
+       "carbohydrates": 43.3,
+       "protein": 27.3,
+       "fiber": null,
+       "sugar": null
+     }
+   },
+   {
+     "id": "UUID-38",
+     "title": "Baked Ziti with Sausage",
+     "description": "Classic baked pasta dish with Italian sausage.",
+     "imageURL": null,
+     "cookTime": 60,
+     "cuisine": "Italian",
+     "mealType": ["Dinner"],
+     "dietTags": [],
+     "allergens": ["gluten", "diary"],
+     "ingredients": [
+       {
+         "name": "ziti pasta",
+         "quantity": "1",
+         "unit": "16 ounce package",
+         "note": "dry"
+       },
+       {
+         "name": "Italian sausage",
+         "quantity": "1",
+         "unit": "pound",
+         "note": "mild"
+       },
+       {
+         "name": "ricotta cheese",
+         "quantity": "1",
+         "unit": "15 ounce container",
+         "note": null
+       },
+       {
+         "name": "egg",
+         "quantity": "1",
+         "unit": null,
+         "note": "large"
+       },
+       {
+         "name": "spaghetti sauce",
+         "quantity": "1 1/2",
+         "unit": "26 ounce jars",
+         "note": "divided"
+       },
+       {
+         "name": "yellow onion",
+         "quantity": "1",
+         "unit": "large",
+         "note": "minced"
+       },
+       {
+         "name": "garlic",
+         "quantity": "2",
+         "unit": "teaspoons",
+         "note": "minced"
+       },
+       {
+         "name": "oregano",
+         "quantity": "1",
+         "unit": "teaspoon",
+         "note": "dried"
+       },
+       {
+         "name": "salt",
+         "quantity": "1/2",
+         "unit": "teaspoon",
+         "note": null
+       },
+       {
+         "name": "pepper",
+         "quantity": "1/2",
+         "unit": "teaspoon",
+         "note": "ground black"
+       },
+       {
+         "name": "Italian cheese blend",
+         "quantity": "1",
+         "unit": "8 ounce package",
+         "note": "shredded"
+       },
+       {
+         "name": "basil",
+         "quantity": "1",
+         "unit": "teaspoon",
+         "note": "dried (optional)"
+       }
+     ],
+     "steps": [
+       "Preheat an oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish.",
+       "Fill a large pot of lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the ziti, and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 8 minutes. Drain well in a colander set in the sink.",
+       "While pasta is cooking, heat a large skillet over medium heat. Add the sausage, and cook and stir until brown, about 10 minutes. Drain sausage and set aside.",
+       "Stir together the ricotta, egg, onion, garlic, and oregano in a large bowl until well combined. Stir in the drained pasta, the drained sausage, salt, pepper, and 1/2 jar of the spaghetti sauce; mix well.",
+       "In the prepared baking dish, cover the bottom with 1/3 jar of spaghetti sauce. Layer 1/2 of the pasta mixture, 1/3 jar of spaghetti sauce, and 1/2 of the shredded cheese. Then layer the remaining 1/2 of the pasta, 1/3 of the sauce, and 1/2 of the cheese. Sprinkle with basil. Cover the dish tightly with aluminum foil.",
+       "Bake in the preheated oven until heated through, about 20 minutes. Uncover; return to the oven and bake until cheese is melted, 5 to 10 more minutes."
+     ],
+     "nutritions": {
+       "calories": 649,
+       "fat": 27.4,
+       "cholesterol": 86,
+       "sodium": null,
+       "carbohydrates": 68.9,
+       "protein": 30.7,
+       "fiber": null,
+       "sugar": null
+     }
+   },
+   {
+     "id": "UUID-39",
+     "title": "Pesto",
+     "description": "Classic Italian basil pesto sauce.",
+     "imageURL": null,
+     "cookTime": 5,
+     "cuisine": "Italian",
+     "mealType": ["Side"],
+     "dietTags": ["Vegetarian"],
+     "allergens": ["nuts", "diary"],
+     "ingredients": [
+       {
+         "name": "basil leaves",
+         "quantity": "3",
+         "unit": "cups",
+         "note": "fresh, packed"
+       },
+       {
+         "name": "garlic",
+         "quantity": "4",
+         "unit": "cloves",
+         "note": "peeled"
+       },
+       {
+         "name": "Parmesan cheese",
+         "quantity": "3/4",
+         "unit": "cup",
+         "note": "grated"
+       },
+       {
+         "name": "olive oil",
+         "quantity": "1",
+         "unit": "cup",
+         "note": null
+       },
+       {
+         "name": "pine nuts",
+         "quantity": "1/4",
+         "unit": "cup",
+         "note": null
+       },
+       {
+         "name": "parsley",
+         "quantity": "1/2",
+         "unit": "cup",
+         "note": "chopped fresh (optional)"
+       }
+     ],
+     "steps": [
+       "Combine basil, garlic, Parmesan cheese, olive oil, and nuts in the bowl of a food processor or blender. Blend to a smooth paste. Add parsley if desired."
+     ],
+     "nutritions": {
+       "calories": 91,
+       "fat": 9,
+       "cholesterol": 3,
+       "sodium": null,
+       "carbohydrates": 1,
+       "protein": 2.3,
+       "fiber": null,
+       "sugar": null
+     }
+   },
+   {
+     "id": "UUID-40",
+     "title": "Manicotti alla Romana",
+     "description": "Traditional Roman-style stuffed pasta dish.",
+     "imageURL": null,
+     "cookTime": 110,
+     "cuisine": "Italian",
+     "mealType": ["Dinner"],
+     "dietTags": [],
+     "allergens": ["gluten", "diary"],
+     "ingredients": [
+       {
+         "name": "olive oil",
+         "quantity": "2",
+         "unit": "tablespoons",
+         "note": null
+       },
+       {
+         "name": "onion",
+         "quantity": "1/2",
+         "unit": "cup",
+         "note": "chopped"
+       },
+       {
+         "name": "garlic",
+         "quantity": "6",
+         "unit": "cloves",
+         "note": "finely chopped"
+       },
+       {
+         "name": "ground beef",
+         "quantity": "1",
+         "unit": "pound",
+         "note": null
+       },
+       {
+         "name": "salt",
+         "quantity": null,
+         "unit": null,
+         "note": "to taste"
+       },
+       {
+         "name": "red wine",
+         "quantity": "6",
+         "unit": "fluid ounces",
+         "note": null
+       },
+       {
+         "name": "San Marzano tomatoes",
+         "quantity": "21",
+         "unit": "ounces",
+         "note": "peeled"
+       },
+       {
+         "name": "butter",
+         "quantity": "6",
+         "unit": "tablespoons",
+         "note": null
+       },
+       {
+         "name": "all-purpose flour",
+         "quantity": "2/3",
+         "unit": "cup",
+         "note": null
+       },
+       {
+         "name": "milk",
+         "quantity": "3 1/4",
+         "unit": "cups",
+         "note": null
+       },
+       {
+         "name": "nutmeg",
+         "quantity": "1/2",
+         "unit": "teaspoon",
+         "note": "ground"
+       },
+       {
+         "name": "pepper",
+         "quantity": null,
+         "unit": null,
+         "note": "ground black, to taste"
+       },
+       {
+         "name": "lasagna noodles",
+         "quantity": "11",
+         "unit": "ounces",
+         "note": null
+       },
+       {
+         "name": "Parmesan cheese",
+         "quantity": "2 1/2",
+         "unit": "cups",
+         "note": "grated, or to taste"
+       }
+     ],
+     "steps": [
+       "Heat olive oil in a saucepan over medium heat; cook and stir onion, carrot, shallot, and prosciutto until onion is translucent and prosciutto releases some fat, about 10 minutes. Add pork and beef; season with 1 teaspoon nutmeg, cinnamon, and salt to taste. Cook and stir over medium-high heat until browned and crumbly, about 10 minutes.",
+       "Pour red wine over meat mixture; increase heat and cook until wine evaporates, about 3 minutes. Add tomatoes and mix well; bring to a boil, cover, reduce heat, and simmer, stirring occasionally, until tomatoes break down and flavors of Bolognese sauce have combined, 1 1/2 to 2 hours.",
+       "Melt butter in a saucepan over medium-low heat; add flour. Whisk vigorously until mixture is smooth. Pour in milk and cook, stirring occasionally, over medium heat until white sauce thickens enough to cover the back of a spoon, about 10 minutes; season with 1/2 teaspoon nutmeg, salt, and pepper.",
+       "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in the boiling water, stirring occasionally until tender yet firm to the bite, about 8 minutes. Drain and run under cold water to stop the cooking process. Lay noodles on a clean towel and pat dry.",
+       "Preheat oven to 350 degrees F (175 degrees C).",
+       "Pour a ladleful of Bolognese sauce and a ladleful of white sauce over the bottom of a 9x13-inch baking dish; top with 3 or 4 lasagna noodles. Cover noodles with 1/3 of the white sauce and 1/3 of the Bolognese sauce. Sprinkle some of the Parmesan cheese on top; cover with lasagna noodles. Repeat layers, ending with white sauce and Parmesan cheese.",
+       "Bake in the preheated oven until bubbling and top is golden brown, 30 to 40 minutes. Let stand 3 to 4 minutes before slicing."
+     ],
+     "nutritions": {
+       "calories": 612,
+       "fat": 30.3,
+       "cholesterol": 134,
+       "sodium": null,
+       "carbohydrates": 58.7,
+       "protein": 27.6,
+       "fiber": null,
+       "sugar": null
+     }
+   }
 ]
